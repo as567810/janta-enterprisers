@@ -708,6 +708,9 @@ footer .copyright a i{
         margin-right: auto;
 
     }
+    header .logo{
+        width: 100px;
+    }
     .popular-sec .lt figure{
         width: auto;
     }
