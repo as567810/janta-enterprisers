@@ -155,7 +155,6 @@ header .logo {
 header .logo a{
     font-size: 3rem;
     color: #fff;
-    font-family: fantasy;
 }
 
 header nav {
@@ -710,6 +709,10 @@ footer .copyright a i{
     }
     header .logo{
         width: 100px;
+    }
+    header .logo a{
+        font-size: 2rem;
+        color: #fff;
     }
     .popular-sec .lt figure{
         width: auto;
