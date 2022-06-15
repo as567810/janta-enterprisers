@@ -5,11 +5,9 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-}
-
-body{
     font-family: 'Roboto', sans-serif;
 }
+
 a {
     text-decoration: none;
     color: #000;
@@ -18,9 +16,7 @@ a {
 a:hover{
     color: #ff6b00;
 }
-h1,h2,h3,h4,h5{
-    font-weight: 700;
-}
+
 ul,
 ol {
     list-style: none;
@@ -138,7 +134,7 @@ header.fixed nav ul {
 
 header {
     width: 100%;
-    height: 75px;
+    height: 104px;
     padding: 7px 0;
     background: #1f73bc;
     position: sticky;
@@ -148,17 +144,19 @@ header {
 }
 
 header .logo {
-    width: 200px;
+    width: 140px;
     transition: 1s;
     float: left;
 }
 header .logo a{
     font-size: 3rem;
     color: #fff;
+
 }
 
 header nav {
     float: right;
+    margin-top: 10px;
 }
 
 .hamburger {
@@ -206,7 +204,19 @@ header nav ul li ul.drpdwn{
     left: 0;
     background: #1f73bc;
     width: 165px;
+    border-radius: 10px;
 }
+header nav ul li ul.drpdwn li{
+    border-bottom: 1px dotted rgb(141, 141, 141);
+    margin: 0;
+    width: 100%;
+    
+}
+header nav ul li ul.drpdwn li:last-child{
+    margin-bottom: 12px;
+    border-bottom: 1px dotted transparent ;
+}
+
 header nav ul li ul.drpdwn li a{
     line-height: 30px;
 }
@@ -217,6 +227,7 @@ header nav ul li a {
     font-family: 'Roboto', sans-serif;
     text-transform: uppercase;
     transition: all .2s;
+    font-weight: 600;
 }
 
 header nav ul li a:hover {
@@ -226,36 +237,27 @@ header nav ul li a:hover {
 header nav ul li a.active {
     color: #ff6b00;
 }
-/* .head-space {
-    height: 75px;
-} */
-.banner-sec {
-    margin-bottom: -4px;
-}
-/* .banner-sec .mySwiper{
-    height: calc(100vh - 0px);
-} */
 
 .banner-sec img.mob {
     display: none;
 }
-.banner-sec .swiper-slide .banner-content {
+.banner-sec .banner-content {
     position: absolute;
     top: 50%;
-    transform: translateY(-50%);
-    left: 20%;
-    transform: translateX(-25%);
+    left: 35%;
+    transform: translate(-50%, 0%);
+    width: 50%;
 }
-.banner-sec .swiper-slide .banner-content h2{
+.banner-sec .banner-content h2{
     font-size: 44px;
     color: #fff;
 }
-.banner-sec .swiper-slide .banner-content p{
+.banner-sec .banner-content p{
     font-size: 18px;
     color: #fff;
     margin: 10px 0;
 }
-.banner-sec .swiper-slide .banner-content .btn{
+.banner-sec .banner-content .btn{
     display: block;
     margin-top: 20px;
     text-align: center;
@@ -290,9 +292,21 @@ header nav ul li a.active {
 .popular-sec .rt h2{
     margin-bottom: 20px;
     font-size: 38px;
+    position: relative;
+}
+.popular-sec .rt h2::before{
+    content: '';
+    position: absolute;
+    bottom: -7px;
+    left: 0;
+
+    background: #F14C41;
+    width: 50px;
+    height: 2px;
 }
 .popular-sec .rt p{
-    font-size: 18px;
+    font-size: 16px;
+    text-align: justify;
 }
 .popular-sec .rt .in-des{
     background-color: #f4f5f9;
@@ -312,7 +326,7 @@ header nav ul li a.active {
     color: #0000005e;
 }
 .popular-sec .rt .in-des p{
-    font: 20px;
+    font-size: 14px;
 }
 .popular-sec .rt .butn .btn{
     display: block;
@@ -321,6 +335,7 @@ header nav ul li a.active {
     color: #fff;
     text-align: center;
     line-height: 38px;
+    margin-top: 20px;
 }
 .popular-sec .rt .butn .btn:hover{
     color: #ff6b00
@@ -331,6 +346,7 @@ header nav ul li a.active {
 
 .repair-sec{
     padding: 50px 0;
+    background: #f3f3f3;
 }
 .repair-sec .head{
     text-align: center;
@@ -339,6 +355,17 @@ header nav ul li a.active {
 .repair-sec .head h2{
     font-size: 40px;
     line-height: 42px;
+    position: relative;
+}
+.repair-sec .head h2::before{
+    content: '';
+    position: absolute;
+    bottom: -15px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #F14C41;
+    width: 70px;
+    height: 2px;
 }
 .repair-sec .head .rep{
     display: block;
@@ -347,25 +374,28 @@ header nav ul li a.active {
     color: #ff6b00;
 }
 .repair-sec .main{
-    margin-top: 12px;
+    margin-top: 22px;
 }
 .repair-sec .main li{
-    width: 31.33%;
+    width: 23%;
     margin: 1%;
     padding: 1%;
     box-shadow: 0 1px 5px #ccc;
     border-radius: 8px;
+    background: #fff;
 }
 .repair-sec .main li figure{
     margin-bottom: -4px;
 }
 .repair-sec .main li figure img{
-    height: 300px;
+    height: 240px;
     object-fit: cover;
 }
 .repair-sec .main li .content {
     padding: 15px;
     border: 1px solid #ccc;
+    position: relative;
+    height: 234px;
 }
 .repair-sec .main li .content .small-icon{
     width: 40px;
@@ -381,8 +411,12 @@ header nav ul li a.active {
     padding: 10px;
     background: #fff;
 }
+.repair-sec .main li .content h2{
+    min-height: 35px;
+    font-size: 20px;
+}
 .repair-sec .main li .content p{
-    margin: 12px 0;
+    margin-bottom: 12px;    
 }
 .repair-sec .main li .content .btn{
     display: block;
@@ -392,6 +426,7 @@ header nav ul li a.active {
     text-align: center;
     line-height: 38px;
     position: absolute;
+    bottom: -20px;
 }
 .repair-sec .main li .content .btn:hover{
     color: #ff6b00
@@ -449,6 +484,7 @@ header nav ul li a.active {
     font-size: 38px;
     line-height: 42px;
     margin-bottom: 20px;
+    
 }
 .testimonial-sec .rt p{
     font-size: 18px;
@@ -498,7 +534,7 @@ header nav ul li a.active {
     outline: 0;
     padding: 12px;
     border: 1px solid #ccc;
-    box-shadow: 0 3px 6px rgb(218, 218, 218);
+    box-shadow: 0 3px 6px #ccc;
     border-radius: 10px;
 }
 .consult-sec .rt form .inp textarea::placeholder{
@@ -552,6 +588,9 @@ footer .ft-col{
     width: 23%;
     margin: 1%;
     padding: 1%;
+}
+footer .ft-col p.anchor a:hover{
+    color: #ff6b00;
 }
 footer .ft-col .ft-head{
     position: relative;
@@ -639,6 +678,189 @@ footer .copyright a i{
     margin-left: 6px;
 }
 
+/*****************/
+/* about us page */
+/*****************/
+.about-sec{
+    padding: 50px 0;
+}
+.about-sec .about-main{
+    text-align: center;
+}
+.about-sec .about-main h2{
+    font-size: 38px;
+    color: #1d202f;
+}
+.about-sec .about-main h2 span{
+    color: #ff6b00;
+}
+.about-sec .about-main h4{
+    font-size: 24px;
+    margin: 12px 0;
+    color: #1d202f;
+}
+.about-sec .about-main p{
+    font-size: 18px;
+    line-height: 24px;
+    max-width: 800px;
+    margin: auto;
+}
+.lower-sec{
+    padding: 50px 0;
+}
+.lower-sec .main-d{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.lower-sec .main-d .left{
+    width: 36%;
+
+}
+.lower-sec .main-d .right{
+    width: 60%;
+}
+.lower-sec .main-d .right h2{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.static-sec{
+    padding: 50px 0;
+    background-color: #162648;
+}
+.static-sec .head{
+    margin-bottom: 20px;
+    text-align: center;
+    color: #fff;
+    font-size: 38px;
+}
+.static-sec li{
+    text-align: center;
+    color: #1f73bc;
+    padding: 30px 12px;
+    margin: 1%;
+    background-color: #f5f5f5;
+    width: 23%;
+    border-radius: 8px;
+    transition: all .4s;
+}
+.static-sec li:hover{
+    background-color: #1877F2bd;
+    color: #fff;
+}
+.static-sec li i{
+    font-size: 50px;
+}
+.static-sec li h2{
+    margin: 20px 0;
+    font-size: 32px;
+}
+.static-sec li p{
+    font-size: 18px;
+}
+/*****************/
+/* contact  page */
+/*****************/
+.form-sec{
+    padding: 50px 0;
+}
+.form-sec h2{
+    font-size: 38px;
+    color: #1d202f;
+    margin-bottom: 20px;
+}
+.form-sec form .inp{
+    margin-bottom: 7px;
+}
+.form-sec form .inp input{
+    width: 450px;
+    height: 40px;
+    outline: 0;
+    font-size: 16px;
+    padding: 12px;
+    border: 1px solid transparent;
+
+    box-shadow: 0 3px 6px #ccc;
+    border-radius: 10px;
+}
+.form-sec form .inp textarea{
+    width: 450px;
+    font-size: 16px;
+    outline: 0;
+    padding: 12px;
+    border: 1px solid transparent;
+    box-shadow: 0 3px 6px #ccc;
+    border-radius: 10px;
+}
+.form-sec form .inp textarea::placeholder{
+    font-family: "";
+}
+.form-sec form .inp input:focus-visible,
+.form-sec form .inp textarea:focus-visible{
+    border: 1px solid #000;
+}
+.form-sec form .btn{
+    /* border-radius: 0; */
+    background-color: #ff6b00;
+    border: 1px solid transparent;
+    color: #fff;
+}
+.form-sec form .btn:hover{
+    color: #ff6b00;
+}
+.form-sec form .btn::before{
+    background-color: #fff;
+    border: 1px solid #ff6b00;
+}
+.form-sec .rt .detail{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.form-sec .rt .detail i{
+    font-size: 20px;
+    color: #fff;
+    background: #000;
+    padding: 12px;
+}
+.form-sec .rt .detail p{
+    font-size: 20px;
+    margin-left: 12px;
+}
+/*****************/
+/* service  page */
+/*****************/
+.serv-sec{
+    padding: 50px 0;
+}
+.serv-sec .serv-main:nth-child(even){
+    background-color: #01287a;
+    margin: 50px 0;
+}
+.serv-sec .serv-main:nth-child(even) .main{
+    flex-direction: row-reverse;
+    padding: 50px 0;
+}
+.serv-sec .serv-main:nth-child(even) .main .rt{
+    padding-right: 20px;
+    color: #fff;
+}
+.serv-sec .lt{
+    width: 35%;
+}
+.serv-sec .rt{
+    width: 65%;
+}
+.serv-sec .rt h2{
+    margin-bottom: 20px;
+    font-size: 38px;
+    line-height: 44px;
+}
+.serv-sec .rt p{
+    font-size: 18px;
+    line-height: 24px;
+}
+
 @media (max-width: 767px) {
     .container{
         width: 90%;
@@ -693,26 +915,19 @@ footer .copyright a i{
     header nav ul li a{
         font-size: 20px;
     }
-    .banner-sec .swiper-slide .banner-content{
+    .banner-sec .banner-content{
         top: 50%;
         left: 50%;
         text-align: center;
         transform: translate(-50%, -50%);
     }
-    .banner-sec .swiper-slide .banner-content h2{
+    .banner-sec .banner-content h2{
         font-size: 32px;
     }
-    .banner-sec .swiper-slide .banner-content .btn{
+    .banner-sec .banner-content .btn{
         margin-left: auto;
         margin-right: auto;
 
-    }
-    header .logo{
-        width: 100px;
-    }
-    header .logo a{
-        font-size: 2rem;
-        color: #fff;
     }
     .popular-sec .lt figure{
         width: auto;
@@ -729,6 +944,12 @@ footer .copyright a i{
     }
     .repair-sec .main li figure img{
         height: auto;
+    }
+    .repair-sec .main li .content h2{
+        min-height: auto;
+    }
+    .repair-sec .main li .content p{
+        margin-top: 12px;
     }
     .empower-sec .rt .inn-main .main-lt,
     .empower-sec .rt .inn-main .main-rt{
@@ -757,5 +978,42 @@ footer .copyright a i{
     }
     footer .copyright .copy{
         margin-bottom: 10px;
+    }
+    .static-sec li{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .form-sec form {
+        margin-bottom: 30px;
+    }
+    .form-sec form .inp input,
+    .form-sec form .inp textarea{
+        width: 100%;
+    }
+    .serv-sec{
+        padding-bottom: 0;
+    }
+    .serv-sec .lt,
+    .serv-sec .rt{
+        width: 100%;
+    }
+    .serv-sec .rt{
+        margin-top: 20px;
+    }
+    .serv-sec .serv-main:last-child{
+        margin-bottom: 0;
+    }
+    .lower-sec .main-d{
+        flex-direction: column;
+    }
+    .lower-sec .main-d .left{
+        width: 100%;
+
+    }
+    .lower-sec .main-d .right{
+        width: 100%;
+        margin-top: 10px;
+        text-align: center;
+        
     }
 }

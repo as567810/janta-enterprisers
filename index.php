@@ -1,71 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AC Service</title>
-    <link rel="stylesheet" href="css/swiper-bundle.min.css">
-    <link rel="stylesheet" href="css/my_style.css">
-</head>
+<?php include('include/head.php')?>
 <body>
-    <div class="top-head">
-        <div class="container">
-            <div class="main">
-                <div class="num-mail">
-                    <a href="javascript:void(0)">
-                        <i class="fa-solid fa-phone"></i> +91 9458474345
-                    </a>
-                    <a href="javascript:void(0)">
-                        <i class="fa-solid fa-envelope"></i> info@mail.com
-                    </a>
-                </div>
-                <div class="sc-icon">
-                    <a href="javascript:void(0)"><i class="fa-brands fa-facebook-square"></i></a>
-                    <a href="javascript:void(0)"><i class="fa-brands fa-instagram"></i></a>
-                    <a href="javascript:void(0)"><i class="fa-brands fa-google-plus-square"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <header>
-        <div class="fix">
-            <div class="container">
-                <div class="logo">
-                    <a href="javascript:void()">
-                        <!-- <img src="images/logo.png" alt="logo" /> -->
-                       LOGO
-                    </a>
-                </div>
-                <nav>
-                    <div class="hamburger">
-                        <div class="line1"></div>
-                        <div class="line2"></div>
-                        <div class="line3"></div>
-                    </div>
-                    <ul>
-                        <li><a id="home" class="active" href="javascript:void()">home</a></li>
-                        <li><a id="about" href="javascript:void()">about us</a></li>
-                        <li>
-                            <a id="Service" href="javascript:void()">services <i class="fa-solid fa-caret-down"></i></a>
-                            <ul class="drpdwn">
-                                <li><a href="javascript:void()">Air Conditioner</a></li>
-                                <li><a href="javascript:void()">Geyser</a></li>
-                                <li><a href="javascript:void()">Microwave</a></li>
-                                <li><a href="javascript:void()">Refrigerator</a></li>
-                                <li><a href="javascript:void()">Washing Machine</a></li>
-                            </ul>
-                        </li>
-                        <li><a id="contact" href="javascript:void()">contact us</a></li>
-                    </ul>
-                </nav>
-            </div>
-        </div>
-    </header>
+<?php include('include/header.php')?>
 
     <!-- <div class="head-space"></div> -->
 
-    <section class="banner-sec">
+    <section class="banner-sec ">
         <div class="swiper mySwiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
@@ -96,20 +37,18 @@
         </div>
     </section>
 
-    <section class="popular-sec">
+    <section class="popular-sec wow fadeIn">
         <div class="container">
             <div class="main">
-                <div class="lt">
+                <div class="lt  wow fadeInLeft">
                     <figure>
                         <img src="images/air-abstract.jpg" alt="" />
                     </figure>
                 </div>
-                <div class="rt">
+                <div class="rt wow fadeInRight">
                     <h2>We are most popular company</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus commodi molestias ipsum voluptatem temporibus! Voluptates dolorum sapiente facere ducimus nisi!</p>
-                    <div class="in-des">
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus repellat nulla tempore, omnis adipisci eveniet.</p>
-                    </div>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus commodi molestias ipsum voluptatem temporibus! Voluptates dolorum sapiente facere ducimus nisi! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus commodi molestias ipsum voluptatem temporibus! Voluptates dolorum sapiente facere ducimus nisi!<br><br>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus commodi molestias ipsum voluptatem temporibus! Voluptates dolorum sapiente facere ducimus nisi!Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus commodi molestias ipsum voluptatem temporibus! !</p>
+                
                     <div class="butn">
                         <a href="javascript:void(0)" class="btn">Read more</a>
                     </div>
@@ -118,15 +57,15 @@
         </div>
     </section>
 
-    <section class="repair-sec">
+    <section class="repair-sec wow fadeIn">
         <div class="container">
             <div class="head">
                 <h2>We provide most popular <span class="rep">repair <span class="colr">services</span></span></h2>
             </div>
-            <ul class="main">
+            <ul class="main wow fadeInDown">
                 <li>
                     <figure>
-                        <img src="images/ac.jpg" alt="" />
+                        <img src="images/services/ac.jpg" alt="" />
                     </figure>
                     <div class="content">
                         <div class="small-icon">
@@ -139,7 +78,7 @@
                 </li>
                 <li>
                     <figure>
-                        <img src="images/geyser.jpg" alt="" />
+                        <img src="images/services/gyser.jpg" alt="" />
                     </figure>
                     <div class="content">
                         <div class="small-icon">
@@ -152,7 +91,7 @@
                 </li>
                 <li>
                     <figure>
-                        <img src="images/Microwave.jpg" alt="" />
+                        <img src="images/services/micro.jpg" alt="" />
                     </figure>
                     <div class="content">
                         <div class="small-icon">
@@ -178,13 +117,39 @@
                 </li>
                 <li>
                     <figure>
-                        <img src="images/loading-washer.jpg" alt="" />
+                        <img src="images/services/wasing.jpg" alt="" />
                     </figure>
                     <div class="content">
                         <div class="small-icon">
                             <i class="fa-solid fa-house-user"></i>
                         </div>
                         <h2>Washing Machine Service</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quisquam reiciendis fugit placeat excepturi iure dolorum rem, nemo suscipit eligendi.</p>
+                        <a href="javascript:void(0)" class="btn">Book</a>
+                    </div>
+                </li>
+                <li>
+                    <figure>
+                        <img src="images/services/core-cutting.jpg" alt="" />
+                    </figure>
+                    <div class="content">
+                        <div class="small-icon">
+                            <i class="fa-solid fa-toolbox"></i>
+                        </div>
+                        <h2>Core Cutting</h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quisquam reiciendis fugit placeat excepturi iure dolorum rem, nemo suscipit eligendi.</p>
+                        <a href="javascript:void(0)" class="btn">Book</a>
+                    </div>
+                </li>
+                <li>
+                    <figure>
+                        <img src="images/services/amc.jpg" alt="" />
+                    </figure>
+                    <div class="content">
+                        <div class="small-icon">
+                            <i class="fa-solid fa-house-user"></i>
+                        </div>
+                        <h2>A M C</h2>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quisquam reiciendis fugit placeat excepturi iure dolorum rem, nemo suscipit eligendi.</p>
                         <a href="javascript:void(0)" class="btn">Book</a>
                     </div>
@@ -206,13 +171,13 @@
         </div>
     </section>
 
-    <section class="empower-sec">
+    <section class="empower-sec wow fadeIn">
         <div class="container">
             <div class="main">
-                <div class="lt">
+                <div class="lt wow fadeInLeft">
                     <img src="images/1519801673088.jpg" alt="" />
                 </div>
-                <div class="rt">
+                <div class="rt wow fadeInRight">
                     <h2>Empower lifes forever better living</h2>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reiciendis incidunt beatae aliquid ducimus, quam perspiciatis nobis dolor deserunt? Quas rem doloribus aliquam iste voluptatibus tempora fuga sunt ipsam eligendi obcaecati?</p>
                     <div class="main inn-main">
@@ -220,7 +185,7 @@
                             <img src="images/Rectangle 83.png" alt="" />
                         </div>
                         <div class="main-rt">
-                            <h2>Core cutting</h2>
+                            <h2>Lorem ipsum</h2>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque corrupti nostrum, veritatis veniam sapiente fugiat.</p>
                         </div>
                     </div>
@@ -229,7 +194,7 @@
                             <img src="images/Rectangle 83.png" alt="" />
                         </div>
                         <div class="main-rt">
-                            <h2>AMC</h2>
+                            <h2>Lorem ipsum</h2>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque corrupti nostrum, veritatis veniam sapiente fugiat.</p>
                         </div>
                     </div>
@@ -238,7 +203,7 @@
         </div>
     </section>
 
-    <section class="testimonial-sec">
+    <section class="testimonial-sec wow fadeIn">
         <div class="container">
             <div class="main">
                 <div class="lt">
@@ -259,13 +224,13 @@
         </div>
     </section>
 
-    <section class="consult-sec">
+    <section class="consult-sec wow fadeIn">
         <div class="container">
             <div class="main">
-                <div class="lt">
-                    <img src="images/mob-banner-2.jpg" alt="" />
+                <div class="lt wow fadeInLeft">
+                    <img src="images/cosn.jpg" alt="" />
                 </div>
-                <div class="rt">
+                <div class="rt wow fadeInRight">
                     <h2>Have any question or free consultancy?</h2>
                     <form action="">
                         <div class="inp">
@@ -293,75 +258,6 @@
     </div>
     
 
-    <footer>
-        <div class="container">
-            <div class="main">
-                <div class="ft-col">
-                    <div class="ft-head">
-                        <h2>About Us</h2>
-                    </div>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus culpa, eligendi rem, aut eos quae temporibus nam facilis porro velit.</p>
-                </div>
-                <div class="ft-col">
-                    <div class="ft-head">
-                        <h2>Services</h2>
-                    </div>
-                    <a href="javascript:void()" class="serv">Air Conditioner</a>
-                    <a href="javascript:void()" class="serv">Geyser</a>
-                    <a href="javascript:void()" class="serv">Microwave</a>
-                    <a href="javascript:void()" class="serv">Refrigerator</a>
-                    <a href="javascript:void()" class="serv">Washing Machine</a>
-                    <!-- <a href="javascript:void()" class="serv">Cooler</a>
-                    <a href="javascript:void()" class="serv">Fan</a> -->
-                </div>
-                <div class="ft-col">
-                    <div class="ft-head">
-                        <h2>Contact Info</h2>
-                    </div>
-                    <p class="addr">
-                        <span><i class="fa-solid fa-home"></i></span>
-                        <span> Main Road Sector-32 Greater Noida</span>
-                    </p>
-                    <p class="anchor">
-                        <a href="javascript:void()">
-                            <i class="fa-solid fa-phone"></i> +91 9458474345
-                        </a>
-                    </p>
-                    <p class="anchor">
-                        <a href="javascript:void()">
-                            <i class="fa-solid fa-envelope"></i> info@mail.com
-                        </a>
-                    </p>
-                </div>
-                <div class="ft-col">
-                    <div class="ft-head">
-                        <h2>Subscribe</h2>
-                    </div>
-                    <p>Subscribe for more...</p>
-                    <form action="">
-                        <div class="inp">
-                            <input type="text" name="" id="" placeholder="email" />
-                        </div>
-                        <button class="btn">SUBSCRIBE</button>
-                    </form>
-                </div>
-            </div>
-            <div class="copyright">
-                <div class="copy">
-                    &copy; 2022 All Rights Reserved
-                </div>
-                <div class="icos">
-                    <a href="javascript:void(0)"><i class="fa-brands fa-facebook-square"></i></a>
-                    <a href="javascript:void(0)"><i class="fa-brands fa-instagram"></i></a>
-                    <a href="javascript:void(0)"><i class="fa-brands fa-google-plus-square"></i></a>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <script src="js/jquery.min.js"></script>
-    <script src="js/font-awesome-min.js"></script>
-    <script src="js/swiper-bundle.min.js"></script>
-    <script src="js/my_script.js"></script>
+  <?php include('include/footer.php')?>
 </body>
 </html>
