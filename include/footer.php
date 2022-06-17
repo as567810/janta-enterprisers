@@ -17,7 +17,7 @@
                     <a href="refrigderator.php" class="serv">Refrigerator</a>
                     <a href="washing-maching.phpr" class="serv">Washing Machine</a>
                     <a href="core-cutting.php" class="serv">Core Cutting</a>
-                    <a href="commercial.php">Commercial Services</a>
+                    <a href="commercial.php" class="serv">Commercial Services</a>
                     <a href="amc.php" class="serv">A M C</a>
                     <!-- <a href="javascript:void()" class="serv">Cooler</a>
                     <a href="javascript:void()" class="serv">Fan</a> -->

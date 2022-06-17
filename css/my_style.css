@@ -829,6 +829,181 @@ footer .copyright a i{
 }
 /*****************/
 /* service  page */
+
+
+.safe_side_main {
+    margin-top: -22px;
+    z-index: 9;
+    position: relative;
+  }
+  
+  .safe_side_main .safe_menu {
+    background-color: #fff;
+    box-shadow: 0px 10px 40px 0px rgb(192 192 192 / 30%);
+    padding: 30px;
+    width: auto;
+    border-radius: 10px;
+  }
+  
+  .safe_side_main .safe_menu h2 {
+    color: #000;
+    font-size: 22px;
+    font-weight: 800;
+    /* margin-top: 15px; */
+  }
+  
+  .safe_side_main .safe_menu .work_on_progress{
+    padding: 0 20px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .safe_side_main .safe_menu .work-progress {
+    margin-top: 30px;
+    margin-right: 30px;
+    text-align: center;
+  }
+  
+  .safe_side_main .safe_menu .work-progress .work-icon-box {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: 1px solid rgb(231, 231, 231);
+    align-items: center;
+    background: #1f73bc;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    box-shadow: 0 5px 20px #ccc;
+  }
+  
+  .safe_side_main .safe_menu .work-progress .work-icon-box span {
+    justify-content: center;
+   
+  }
+  
+  .safe_side_main .safe_menu .work-progress .work-icon-box span img {
+    width: 60px;
+    justify-content: center;
+  }
+  
+  .safe_side_main .safe_menu .work-progress .work-icon-box span img {
+    display: inline;
+    margin: 0 auto;
+    margin-left: 0%;
+    width: 60px;
+  }
+  
+  .safe_side_main .safe_menu .work-progress .caption {
+    font-size: 14px;
+    margin-top: 15px;
+  }
+  
+  .ssa .safe_menu {
+    padding: 21px 10px;
+    margin: 0;
+    box-shadow: 0 0 0 0;
+  }
+
+
+  .define{
+      padding: 50px 0;
+  }
+
+  .define .main_def{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .define .main-left{
+      width: 72%;
+  }
+  .define .main_def .main-left .repair{
+    padding: 24px 30px 28px 30px;
+    box-shadow: 0 20px 60px 0 rgb(0 0 0 / 10%);
+    margin-bottom: 30px;
+  }
+  .define .main_def .main-left h2{
+      margin-bottom: 10px;
+      font-weight: 500;
+      font-size: 27px;
+  }
+  .define .main_def .main-left h3{
+      font-weight: 700;
+      font-size: 27px;
+      margin-bottom: 10px;
+  }
+  .define .main_def .main-left p{
+    margin-bottom: 15px;
+    font-weight: 300;
+    color:  #848484;
+    font-size: 14px;
+    line-height: 22px;
+}
+.define .main-left ul{
+    display: flex;
+    flex-wrap: wrap;
+}
+.define .main-left ul li{
+    position: relative;
+    margin-bottom: 10px;
+    font-weight: 300;
+    padding-left: 30px;
+    color: #848484;
+    font-size: 14px;
+    width: 50%;
+}
+.define .main-left ul li::before{
+    position: absolute;
+    content: "\f00c";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 6px;
+    color: #fff;
+    width: 15px;
+    height: 15px;
+    line-height: 14px;
+    text-align: center;
+    border-radius: 50%;
+    left: 5px;
+    top: 0p;
+    background: #C5221E;
+    box-shadow: 0 0 0 3px rgba(248,92,112,.3);
+}
+.define  .main-right{
+    width: 25%;
+}
+.define .main_def .main-right .repair{
+    padding: 24px 30px 28px 30px;
+    box-shadow: 0 20px 60px 0 rgb(0 0 0 / 10%);
+    margin-bottom: 30px;
+  }
+.define .main_def .main-right h2{
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 27px;
+}
+.define .main_def .main-right h3{
+    font-weight: 700;
+    font-size: 27px;
+    margin-bottom: 10px;
+}
+.define .main_def .main-right p{
+  margin-bottom: 15px;
+  font-weight: 300;
+  color:  #848484;
+  font-size: 14px;
+  line-height: 22px;
+}
+.define .main_def .main-right ul{
+
+}
+.define .main_def .main-right ul li{
+    color:  #474747;
+    line-height: 22px;
+    font-size: 14px;
+}
 /*****************/
 .serv-sec{
     padding: 50px 0;
