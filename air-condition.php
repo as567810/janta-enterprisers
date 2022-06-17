@@ -139,6 +139,20 @@
 
     </div>
   </section>
+  <section class="reviews">
+    <div class="container"> 
+          <div class="main-d">
+              <div class="comm-d">
+                  <figure>
+                    <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
+                  </figure>
+
+                  <h2>Top Ac Repair</h2>
+                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio deserunt eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus corrupti.</p>
+              </div>
+          </div>
+    </div>
+  </section>
 
   <?php include('include/footer.php')?>
 </body>
