@@ -46,8 +46,8 @@
                     </figure>
                 </div>
                 <div class="rt wow fadeInRight">
-                    <h2>We are most popular company</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus commodi molestias ipsum voluptatem temporibus! Voluptates dolorum sapiente facere ducimus nisi! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus commodi molestias ipsum voluptatem temporibus! Voluptates dolorum sapiente facere ducimus nisi!<br><br>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus commodi molestias ipsum voluptatem temporibus! Voluptates dolorum sapiente facere ducimus nisi!Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus commodi molestias ipsum voluptatem temporibus! !</p>
+                    <h2>Home Appliance Repair Service</h2>
+                    <p>We are your local commercial and residential and home appliances repair company. We offer multiple services to not only meet, but exceed your needs. We keep your home or business running at maximum efficiency. Get home appliance repair service for AC, Refrigeration, Geyser, Microwave, Washing Machine and other electric products by experts at your door. We have expert engineers to solve any kind of issues in your home appliances. Visit at your doorstep same day service guarantee service in Greater Noida.</p>
                 
                     <div class="butn">
                         <a href="javascript:void(0)" class="btn">Read more</a>

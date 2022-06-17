@@ -16,7 +16,7 @@
     </div>
   </section>
 
-  <section class="safe_side_main">
+  <!-- <section class="safe_side_main">
     <div class="container">
 
       <div class="safe_menu">
@@ -56,7 +56,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
 
 
   <section class="define">
@@ -99,58 +99,159 @@
           </div>
         </div>
         <div class="main-right">
-        <div class="repair">
-          <h2>All Brands</h2>
-          <ul>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-          </ul>
+          <div class="repair">
+            <h2>All Brands</h2>
+            <ul>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+            </ul>
+          </div>
+          <div class="repair">
+            <h2>Why Choose us</h2>
+            <ul>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+              <li>Voltas AC repairing and</li>
+
+            </ul>
+          </div>
         </div>
-        <div class="repair">
-          <h2>Why Choose us</h2>
-          <ul>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            <li>Voltas AC repairing and</li>
-            
-          </ul>
-        </div>
-      </div>
       </div>
 
-      
+
 
     </div>
   </section>
   <section class="reviews">
-    <div class="container"> 
-          <div class="main-d">
-              <div class="comm-d">
-                  <figure>
-                    <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
-                  </figure>
-
-                  <h2>Top Ac Repair</h2>
-                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio deserunt eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus corrupti.</p>
-              </div>
+    <div class="container">
+      <div class="main-d">
+        <div class="comm-d">
+          <figure>
+            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
+          </figure>
+          <div class="low">
+            <h2>Top Ac Repair</h2>
+            <div class="ratings"> <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star"></span>
+              <span class="fa fa-star"></span>
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+              deserunt
+              eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
+              corrupti.</p>
           </div>
+        </div>
+        <div class="comm-d">
+          <figure>
+            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
+          </figure>
+          <div class="low">
+            <h2>Top Ac Repair</h2>
+            <div class="ratings"> <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star"></span>
+              <span class="fa fa-star"></span>
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+              deserunt
+              eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
+              corrupti.</p>
+          </div>
+        </div>
+        <div class="comm-d">
+          <figure>
+            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
+          </figure>
+          <div class="low">
+            <h2>Top Ac Repair</h2>
+            <div class="ratings"> <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star"></span>
+              <span class="fa fa-star"></span>
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+              deserunt
+              eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
+              corrupti.</p>
+          </div>
+        </div>
+        <div class="comm-d">
+          <figure>
+            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
+          </figure>
+          <div class="low">
+            <h2>Top Ac Repair</h2>
+            <div class="ratings"> <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star"></span>
+              <span class="fa fa-star"></span>
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+              deserunt
+              eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
+              corrupti.</p>
+          </div>
+        </div>
+        <div class="comm-d">
+          <figure>
+            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
+          </figure>
+          <div class="low">
+            <h2>Top Ac Repair</h2>
+            <div class="ratings"> <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star"></span>
+              <span class="fa fa-star"></span>
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+              deserunt
+              eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
+              corrupti.</p>
+          </div>
+        </div>
+        <div class="comm-d">
+          <figure>
+            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
+          </figure>
+          <div class="low">
+            <h2>Top Ac Repair</h2>
+            <div class="ratings"> <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star checked"></span>
+              <span class="fa fa-star"></span>
+              <span class="fa fa-star"></span>
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+              deserunt
+              eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
+              corrupti.</p>
+          </div>
+        </div>
+    
+      </div>
     </div>
   </section>
 
