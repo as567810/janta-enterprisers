@@ -20,7 +20,7 @@
             <div class="about-main">
                 <h2>Welcome To <span>Janta Enterprices</span></h2>
                 <h4>8+ Years Of Working Experience In Quality Repair Services</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A magni laboriosam, excepturi voluptates aliquid deserunt perferendis ratione explicabo repudiandae id. Laboriosam unde saepe ut recusandae ex libero doloribus provident voluptatum.</p>
+                <p>We believe everyone deserves a great service at a reasonable price. We won't waste your time nor let you be cheated by the market. Home appliances are an essential part of our lives. In this hectic world, we can't imagine life without them. They reduce a lot of our work and help us save energy.</p>
             </div>
         </div>
     </section>
@@ -63,7 +63,10 @@
                 </div>
                 <div class="right">
                     <h2>Vision & Mission</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium necessitatibus labore ea provident natus excepturi. Quas deserunt exercitationem iste est? Commodi ex optio reiciendis exercitationem doloremque dolor dolorem nisi! Quo! Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium necessitatibus labore ea provident natus excepturi. Quas deserunt exercitationem iste est? Commodi ex optio reiciendis exercitationem doloremque dolor dolorem nisi! Quo!<br></br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium necessitatibus labore ea provident natus excepturi. Quas deserunt exercitationem iste est? Commodi ex optio reiciendis exercitationem doloremque dolor dolorem nisi! Quo!Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium necessitatibus labore ea provident natus excepturi. Quas deserunt exercitationem iste est? Commodi ex optio reiciendis exercitationem doloremque dolor dolorem nisi! Quo! Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium necessitatibus labore ea provident natus excepturi. Quas deserunt exercitationem iste est? Commodi ex optio reiciendis exercitationem doloremque dolor dolorem nisi! Quo!</p>
+                    <p>It was important to take care of home appliances daily. They needed to be serviced and used properly. The fraudsters then use your appliance as a money-making machine, charging you high bills. Even the parts they used to fix it were not original company parts. To increase their profit and create demand, they will delay your service.</p>
+                    <p>We created this portal to solve this problem. It allows you to book all of your appliances repairs at one location and provides transparent pricing.</p>
+                    <p>In Janta Enterprises, Our goal to give you peace of mind is to solve your home appliances problems that you encounter every day as quickly and cheaply as possible, so you can focus on the important things in your life.</p>
+                    <p>We are experts in Home Appliance Repair.</p>
                 </div>
               </div>  
         </div>
