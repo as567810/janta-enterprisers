@@ -5,7 +5,7 @@
                     <div class="ft-head">
                         <h2>About Us</h2>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus culpa, eligendi rem, aut eos quae temporibus nam facilis porro velit.</p>
+                    <p>We believe everyone deserves a great service at a reasonable price. We won't waste your time nor let you be cheated by the market. Home appliances are an essential part of our lives. In this hectic world, we can't imagine life without them. </p>
                 </div>
                 <div class="ft-col">
                     <div class="ft-head">
@@ -15,7 +15,7 @@
                     <a href="geyser.phpr" class="serv">Geyser</a>
                     <a href="microwave.php" class="serv">Microwave</a>
                     <a href="refrigderator.php" class="serv">Refrigerator</a>
-                    <a href="washing-maching.phpr" class="serv">Washing Machine</a>
+                    <a href="washing-maching.php" class="serv">Washing Machine</a>
                     <a href="core-cutting.php" class="serv">Core Cutting</a>
                     <a href="commercial.php" class="serv">Commercial Services</a>
                     <a href="amc.php" class="serv">A M C</a>

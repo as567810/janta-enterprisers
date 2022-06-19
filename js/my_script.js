@@ -21,3 +21,20 @@ var swiper = new Swiper(".mySwiper", {
     //     clickable: true,
     // },
 });
+
+var swiper = new Swiper(".mySwiper2", {
+    slidesPerView: 1,
+    freeMode: false,
+    loop: true,
+    speed: 1400,
+    autoplay: true,
+    delay: 4000,
+    navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+    },
+    // pagination: {
+    //     el: ".swiper-pagination",
+    //     clickable: true,
+    // },
+});

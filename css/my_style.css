@@ -543,15 +543,21 @@ header nav ul li a.active {
 }
 
 .testimonial-sec .rt {
-    padding: 50px 0;
+    padding: 10px 0;
     padding-left: 20px;
+    width: 100%;
 }
-
-.testimonial-sec .rt h2 {
+.testimonial-sec .main-s{
+    width: 45%;
+}
+.testimonial-sec  h2 {
     color: #fff;
     font-size: 38px;
     line-height: 42px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-top: 70px;
+
 
 }
 
@@ -563,7 +569,7 @@ header nav ul li a.active {
 .testimonial-sec .rt .test-log {
     display: flex;
     align-items: center;
-    margin-top: 25px;
+    margin-top: 10px;
 }
 
 .testimonial-sec .rt .test-log img {
