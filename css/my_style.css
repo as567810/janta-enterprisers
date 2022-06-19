@@ -1471,5 +1471,10 @@ footer .copyright a i {
     .define .main-right{
         width: 100%;
     }
-    
+    .testimonial-sec .main-s{
+        width: 100%;
+    }
+    .testimonial-sec h2{
+        margin-left:0 ;
+    }
 }
