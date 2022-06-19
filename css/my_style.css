@@ -168,9 +168,7 @@ header .logo {
 }
 
 header .logo a {
-    font-size: 3rem;
-    color: #fff;
-
+    float: left;
 }
 
 header nav {
@@ -694,6 +692,7 @@ footer .ft-col .ft-head::before {
     background-color: #fff;
     bottom: 0;
     left: 0;
+    border-radius: 6px;
 }
 
 footer .ft-col .addr {
@@ -829,7 +828,11 @@ footer .copyright a i {
 
 .lower-sec .main-d .left {
     width: 36%;
-
+}
+.lower-sec .main-d .left figure img{
+    height: 300px;
+    object-fit: cover;
+    object-position: center center;
 }
 
 .lower-sec .main-d .right {
@@ -839,6 +842,9 @@ footer .copyright a i {
 .lower-sec .main-d .right h2 {
     font-size: 30px;
     margin-bottom: 10px;
+}
+.lower-sec .main-d .right p {
+    margin-bottom: 15px;
 }
 
 .static-sec {
@@ -1147,8 +1153,6 @@ footer .copyright a i {
     line-height: 22px;
 }
 
-.define .main_def .main-right ul {}
-
 .define .main_def .main-right ul li {
     color: #474747;
     line-height: 22px;
@@ -1172,7 +1176,19 @@ footer .copyright a i {
     width: 31.33%;
     margin: 1%;
     background: #fff;
-
+    transition: all .4s;
+}
+.reviews .main-d .comm-d:hover {
+    box-shadow: 0 20px 60px 0 rgb(0 0 0 / 10%);
+}
+.reviews .main-d .comm-d:hover figure img {
+    transform: scale(1.2);
+}
+.reviews .main-d .comm-d figure {
+    overflow: hidden;
+}
+.reviews .main-d .comm-d figure img{
+    transition: all .4s;
 }
 
 .reviews .main-d .comm-d .low{
