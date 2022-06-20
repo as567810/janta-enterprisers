@@ -16,11 +16,7 @@
           <div class="banner-content">
             <h2>Home Appliance Repair Service
             </h2>
-            <p>We are your local commercial and residential and home appliances repair company. We offer multiple
-              services to not only meet, but exceed your needs. We keep your home or business running at maximum
-              efficiency. Get home appliance repair service for AC, Refrigeration, Geyser, Microwave, Washing Machine
-              and other electric products by experts at your door. We have expert engineers to solve any kind of issues
-              in your home appliances. Visit at your doorstep same day service guarantee service in Greater Noida.</p>
+            
             <!-- <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p> -->
             <div class="butn">
               <a href="javascript:void(0)" class="btn">Read more</a>
@@ -33,11 +29,7 @@
           <div class="banner-content">
             <h2>Home Appliance Repair Service
             </h2>
-            <p>We are your local commercial and residential and home appliances repair company. We offer multiple
-              services to not only meet, but exceed your needs. We keep your home or business running at maximum
-              efficiency. Get home appliance repair service for AC, Refrigeration, Geyser, Microwave, Washing Machine
-              and other electric products by experts at your door. We have expert engineers to solve any kind of issues
-              in your home appliances. Visit at your doorstep same day service guarantee service in Greater Noida.</p>
+           
             <div class="butn">
               <a href="javascript:void(0)" class="btn">Read more</a>
             </div>
@@ -59,12 +51,11 @@
         </div>
         <div class="rt wow fadeInRight">
           <h2>About us</h2>
-          <p>We believe everyone deserves a great service at a reasonable price. We won't waste your time nor let you be
-            cheated by the market. Home appliances are an essential part of our lives. In this hectic world, we can't
-            imagine life without them. They reduce a lot of our work and help us save energy. It was important to take
-            care of home appliances daily. They needed to be serviced and used properly. The fraudsters then use your
-            appliance as a money-making machine, charging you high bills. Even the parts they used to fix it were not
-            original company parts. </p>
+          <p>We are your local commercial and residential and home appliances repair company. We offer multiple
+              services to not only meet, but exceed your needs. We keep your home or business running at maximum
+              efficiency. Get home appliance repair service for AC, Refrigeration, Geyser, Microwave, Washing Machine
+              and other electric products by experts at your door. We have expert engineers to solve any kind of issues
+              in your home appliances. Visit at your doorstep same day service guarantee service in Greater Noida.</p>
 
           <div class="butn">
             <a href="about.php" class="btn">Read more</a>
@@ -89,8 +80,7 @@
               <i class="fa-solid fa-house-user"></i>
             </div>
             <h2>AC Service</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quisquam reiciendis fugit placeat
-              excepturi iure dolorum rem, nemo suscipit eligendi.</p>
+            
             <a href="javascript:void(0)" class="btn">Book</a>
           </div>
         </li>
@@ -103,8 +93,7 @@
               <i class="fa-solid fa-toolbox"></i>
             </div>
             <h2>Geyser Service</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quisquam reiciendis fugit placeat
-              excepturi iure dolorum rem, nemo suscipit eligendi.</p>
+            
             <a href="javascript:void(0)" class="btn">Book</a>
           </div>
         </li>
@@ -117,8 +106,7 @@
               <i class="fa-solid fa-house-user"></i>
             </div>
             <h2>Microwave Service</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quisquam reiciendis fugit placeat
-              excepturi iure dolorum rem, nemo suscipit eligendi.</p>
+           
             <a href="javascript:void(0)" class="btn">Book</a>
           </div>
         </li>
@@ -131,8 +119,7 @@
               <i class="fa-solid fa-toolbox"></i>
             </div>
             <h2>Refrigerator Service</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quisquam reiciendis fugit placeat
-              excepturi iure dolorum rem, nemo suscipit eligendi.</p>
+            
             <a href="javascript:void(0)" class="btn">Book</a>
           </div>
         </li>
@@ -145,8 +132,7 @@
               <i class="fa-solid fa-house-user"></i>
             </div>
             <h2>Washing Machine Service</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quisquam reiciendis fugit placeat
-              excepturi iure dolorum rem, nemo suscipit eligendi.</p>
+            
             <a href="javascript:void(0)" class="btn">Book</a>
           </div>
         </li>
@@ -159,8 +145,7 @@
               <i class="fa-solid fa-toolbox"></i>
             </div>
             <h2>Core Cutting</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quisquam reiciendis fugit placeat
-              excepturi iure dolorum rem, nemo suscipit eligendi.</p>
+            
             <a href="javascript:void(0)" class="btn">Book</a>
           </div>
         </li>
@@ -173,8 +158,7 @@
               <i class="fa-solid fa-house-user"></i>
             </div>
             <h2>A M C</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quisquam reiciendis fugit placeat
-              excepturi iure dolorum rem, nemo suscipit eligendi.</p>
+            
             <a href="javascript:void(0)" class="btn">Book</a>
           </div>
         </li>
@@ -187,8 +171,7 @@
               <i class="fa-solid fa-toolbox"></i>
             </div>
             <h2>Commercial Service</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quisquam reiciendis fugit placeat
-              excepturi iure dolorum rem, nemo suscipit eligendi.</p>
+            
             <a href="javascript:void(0)" class="btn">Book</a>
           </div>
         </li>
@@ -207,7 +190,7 @@
           
           <div class="main inn-main">
             <div class="main-lt">
-              <img src="images/Rectangle 83.png" alt="" />
+             
             </div>
             <div class="main-rt">
               <h2>Service on one call</h2>
@@ -216,7 +199,7 @@
           </div>
           <div class="main inn-main">
             <div class="main-lt">
-              <img src="images/Rectangle 83.png" alt="" />
+              
             </div>
             <div class="main-rt">
               <h2>Warranty on services and parts</h2>
@@ -246,7 +229,7 @@
                   <p>I was facing issue in my AC. I liked the response what they done. They response with in half hour i
                     liked the work. Go to them with no doubt?</p>
                   <div class="test-log">
-                    <img src="images/Rectangle 83.png" alt="" />
+                   
                     <div class="nae-des">
                       <h3>Vishal</h3>
                       <p>Customer</p>
@@ -261,9 +244,9 @@
                     required material from outside shops at a nominal cost. Complete installation process took about hrs
                     and very responsible for what they do.. Got saved their number for future use.</p>
                   <div class="test-log">
-                    <img src="images/Rectangle 83.png" alt="" />
+                    
                     <div class="nae-des">
-                      <h3>Michelle</h3>
+                      <h3>Ashish</h3>
                       <p>Customer</p>
                     </div>
                   </div>

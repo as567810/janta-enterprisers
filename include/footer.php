@@ -31,14 +31,15 @@
                         <span> Main Road Sector-32 Greater Noida</span>
                     </p>
                     <p class="anchor">
-                        <a href="javascript:void()">
-                            <i class="fa-solid fa-phone"></i> +91 9999999999
-                        </a>
+                    <a href="tel:8630964269">
+                        <i class="fa-solid fa-phone"></i> 8630964269
+                    </a>
+                  
                     </p>
                     <p class="anchor">
-                        <a href="javascript:void()">
-                            <i class="fa-solid fa-envelope"></i> info@mail.com
-                        </a>
+                    <a href="tel:jantaairconditioner730@gmail.com">
+                        <i class="fa-solid fa-envelope"></i> jantaairconditioner730@gmail.com
+                    </a>
                     </p>
                 </div>
                 <div class="ft-col">
