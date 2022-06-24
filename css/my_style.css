@@ -1091,6 +1091,12 @@ footer .copyright a i {
     line-height: 22px;
 }
 
+.define .main-left ul.first-rep {
+    display: block;
+}
+.define .main-left ul.first-rep li{
+    width: 100%;
+}
 .define .main-left ul {
     display: flex;
     flex-wrap: wrap;
@@ -1128,7 +1134,7 @@ footer .copyright a i {
 }
 
 .define .main_def .main-right .repair {
-    padding: 24px 30px 28px 30px;
+    padding: 24px 25px 28px;
     box-shadow: 0 20px 60px 0 rgb(0 0 0 / 10%);
     margin-bottom: 30px;
 }
@@ -1150,12 +1156,12 @@ footer .copyright a i {
     font-weight: 300;
     color: #848484;
     font-size: 14px;
-    line-height: 22px;
+    line-height: 24px;
 }
 
 .define .main_def .main-right ul li {
     color: #474747;
-    line-height: 22px;
+    line-height: 28px;
     font-size: 14px;
 }
 .reviews{
@@ -1196,6 +1202,7 @@ footer .copyright a i {
 }
 .reviews .main-d .comm-d h2 {
     font-size: 23px;
+    min-height: 56px;
 }
 .reviews .ratings{
     margin-top: 10px;

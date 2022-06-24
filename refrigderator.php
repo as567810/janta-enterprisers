@@ -11,7 +11,7 @@
     <div class="banner-content">
       <!-- <h2>PROVIDE QUALITY<br />REPAIR SERVICE</h2> -->
       <h2>Refrigerator</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad eum doloribus earum tempore.</p>
+      <p>Refrigerator repair repairservices in Greater Noida</p>
 
     </div>
   </section>
@@ -22,36 +22,30 @@
         <div class="main-left">
           <div class="repair">
             <h2>Refrigerator Service</h2>
-            <p>Your air conditioner stops functioning often when it runs continuously during summers preventing you from
-              getting cool breeze, in that situation you are going to hire an expert who has expertise in ac repair
-              service and can deal with your ac repairing problem efficiently.</p>
+            <p>Are you looking for a refrigerator repair services in Greater Noida You can get it service at reasonable price. Book one of our trained fridge service technicians online, or call us, and have your fridge or store fridge repaired today. We will assign jobs to technicians near you, who can quickly reach your location and fix your fridge problems without delay.</p>
+            <p>You can book your refrigerator repair in Greater Noida online, or you can call us on our mobile number. A technician will be assigned to your home within minutes. <strong>Janta Enterprises</strong> technicians are trained to fix both simple and more complex refrigerator problems. Book a Janta Enterprises <strong>refrigerator repair service in Noida</strong> to avoid this unpleasant.Janta Enterprises can help with refrigerator repairs for all brands of fridges in Greater Noida, including Samsung, Haier and LG, Nikaiand many more brands.</p>
+            <p>A refrigerator breakdown can be a serious problem, especially in the  scorching summer. You may find your life and daily routine disrupted. You will need to get rid of all food that you have stored, and make alternate arrangements for your family. Waiting for the refrigerator repair technician to arrive is worse than your fridge bursting. It's the pain of making repeated phone calls to the technician!</p>
           </div>
 
           <div class="repair">
             <h3>Refrigerator Service</h3>
-            <p>Air conditioner is basically used in offices and houses in urban areas to keep the hot environment down
-              and get good air to breathe because due to urban pollution it’s almost impossible to get good air without
-              a smoothly functioning ac and because of that there are plenty of domestic and international brands are
-              available in the country.<br><br>
-
-              By booking ac repair service you expect services like cleaning, gas replacement and overhauling done at
-              reasonable cost, however, ac repairing and servicing is a task that cannot be done by an amateur it can
-              only be done by an expert and luckily you are at right spot in the search of an experienced technician for
-              your ac repair service.</p>
+            <p>All issues relating to fridge repair can be dealt with by our technicians. This includes minor issues like the fridge not opening or making too much noise, as well as more serious problems such heating and cooling.</p>
+            <p><strong>Janta Enterprises</strong> is all you need to get your fridge working again. Janta Enterprises guarantees that both our staff and fridge repair service are reliable. This will give you complete peace of mind. Janta Enterprises refrigerator repairs offer the highest quality and most affordable prices. We understand the urgency of fridge repair in Greater Noida and how important it is to ensure that your daily life does not get disrupted. You can expect prompt and professional service at the most competitive prices.</p>
+            <p>Janta Enterprises makes it easy to say goodbye to the hassle of hiring technicians and cleaning out your freezer.</p>
           </div>
           <div class="repair">
-            <h3>AC Problem:</h3>
+            <h3>Refrigerator Problem:</h3>
             <ul>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
+              <li>Refrigerator starting problem</li>
+              <li>Refrigerator starting problem</li>
+              <li>Refrigerator starting problem</li>
+              <li>Refrigerator starting problem</li>
+              <li>Refrigerator starting problem</li>
+              <li>Refrigerator starting problem</li>
+              <li>Refrigerator starting problem</li>
+              <li>Refrigerator starting problem</li>
+              <li>Refrigerator starting problem</li>
+              <li>Refrigerator starting problem</li>
             </ul>
           </div>
         </div>
@@ -59,34 +53,33 @@
           <div class="repair">
             <h2>All Brands</h2>
             <ul>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
+              <li>Godrej Refrigerator repairing</li>
+              <li>Whirlpool Refrigerator repairing</li>
+              <li>Samsung Refrigerator repairing</li>
+              <li>LG Refrigerator repairing</li>
+              <li>IFB Refrigerator repairing</li>
+              <li>Panasonic Refrigerator repairing</li>
+              <li>Videocon Refrigerator repairing</li>
+              <li>Voltas Refrigerator repairing</li>
+              <!-- <li>Voltas Refrigerator repairing</li>
+              <li>Voltas Refrigerator repairing</li>
+              <li>Voltas Refrigerator repairing</li>
+              <li>Voltas Refrigerator repairing</li>
+              <li>Voltas Refrigerator repairing</li>
+              <li>Voltas Refrigerator repairing</li> -->
             </ul>
           </div>
           <div class="repair">
             <h2>Why Choose us</h2>
             <ul>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-
+              <li>Godrej Refrigerator repairing</li>
+              <li>Whirlpool Refrigerator repairing</li>
+              <li>Samsung Refrigerator repairing</li>
+              <li>LG Refrigerator repairing</li>
+              <li>IFB Refrigerator repairing</li>
+              <li>Panasonic Refrigerator repairing</li>
+              <li>Videocon Refrigerator repairing</li>
+              <li>Voltas Refrigerator repairing</li>
             </ul>
           </div>
         </div>

@@ -11,7 +11,7 @@
     <div class="banner-content">
       <!-- <h2>PROVIDE QUALITY<br />REPAIR SERVICE</h2> -->
       <h2>Core Cutting</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad eum doloribus earum tempore.</p>
+      <p>Core Cutting  Services in Greater Noida</p>
 
     </div>
   </section>
@@ -22,36 +22,27 @@
         <div class="main-left">
           <div class="repair">
             <h2>Core Cutting Service</h2>
-            <p>Your air conditioner stops functioning often when it runs continuously during summers preventing you from
-              getting cool breeze, in that situation you are going to hire an expert who has expertise in ac repair
-              service and can deal with your ac repairing problem efficiently.</p>
+            <p>We have many reasons why conventional diamond Core Cutting in Greater Noida.</p>
+            <p>Saw blades won't work for a concrete cutting project: the concrete structure may be good.  The shape may be too irregular to safely workaround, the location may be too inaccessible, or the structure may be too heavily reinforced for blades to cut through. The benefits of using wire saws for concrete construction projects also include we do good or best work core cutting all over Noida.</p>
           </div>
 
           <div class="repair">
-            <h3>Core Cutting Service</h3>
-            <p>Air conditioner is basically used in offices and houses in urban areas to keep the hot environment down
-              and get good air to breathe because due to urban pollution it’s almost impossible to get good air without
-              a smoothly functioning ac and because of that there are plenty of domestic and international brands are
-              available in the country.<br><br>
-
-              By booking ac repair service you expect services like cleaning, gas replacement and overhauling done at
-              reasonable cost, however, ac repairing and servicing is a task that cannot be done by an amateur it can
-              only be done by an expert and luckily you are at right spot in the search of an experienced technician for
-              your ac repair service.</p>
+            <h3>Janta Enterprises is best core cutting services provider in Greater Noida</h3>
+            <p>Our Construction teams take safety first as we still, take proper safety precautions when using this piece of machinery. Just like any large piece of machinery, only trained specialists should operate wire saws by Core Cutting in Greater Noida Call Us at:</p>
           </div>
           <div class="repair">
             <h3>AC Problem:</h3>
             <ul>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
+              <li>Core Cutting problem</li>
+              <li>Core Cutting problem</li>
+              <li>Core Cutting problem</li>
+              <li>Core Cutting problem</li>
+              <li>Core Cutting problem</li>
+              <li>Core Cutting problem</li>
+              <li>Core Cutting problem</li>
+              <li>Core Cutting problem</li>
+              <li>Core Cutting problem</li>
+              <li>Core Cutting problem</li>
             </ul>
           </div>
         </div>
@@ -59,33 +50,33 @@
           <div class="repair">
             <h2>All Brands</h2>
             <ul>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li>
             </ul>
           </div>
           <div class="repair">
             <h2>Why Choose us</h2>
             <ul>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
+              <li>Core Cutting repairing</li>
+              <li>Core Cutting repairing</li>
+              <li>Core Cutting repairing</li>
+              <li>Core Cutting repairing</li>
+              <li>Core Cutting repairing</li>
+              <li>Core Cutting repairing</li>
+              <li>Core Cutting repairing</li>
+              <li>Core Cutting repairing</li>
 
             </ul>
           </div>
