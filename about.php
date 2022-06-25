@@ -20,7 +20,10 @@
             <div class="about-main">
                 <h2>Welcome To <span>Janta Enterprices</span></h2>
                 <h4>8+ Years Of Working Experience In Quality Repair Services</h4>
-                <p>We believe everyone deserves a great service at a reasonable price. We won't waste your time nor let you be cheated by the market. Home appliances are an essential part of our lives. In this hectic world, we can't imagine life without them. They reduce a lot of our work and help us save energy.</p>
+                <p>We believe everyone deserves a great service at a reasonable price. We won't waste your time nor let you be cheated by the market. Home appliances are an essential part of our lives. In this hectic world, we can't imagine life without them. They reduce a lot of our work and help us save energy.
+It was important to take care of home appliances daily. They needed to be serviced and used properly. The fraudsters then use your appliance as a money-making machine, charging you high bills. Even the parts they used to fix it were not original company parts. To increase their profit and create demand, they will delay your service.
+We created this portal to solve this problem. It allows you to book all of your appliances repairs at one location and provides transparent pricing.
+</p>
             </div>
         </div>
     </section>

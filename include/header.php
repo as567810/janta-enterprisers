@@ -2,17 +2,20 @@
         <div class="container">
             <div class="main">
                 <div class="num-mail">
-                    <a href="javascript:void(0)">
-                        <i class="fa-solid fa-phone"></i> +91 9999999999
+                    <a href="tel:9458474345">
+                        <i class="fa-solid fa-phone"></i> 9458474345
                     </a>
-                    <a href="javascript:void(0)">
-                        <i class="fa-solid fa-envelope"></i> info@mail.com
+                    <a href="tel:8630964269">
+                        <i class="fa-solid fa-phone"></i> 8630964269
+                    </a>
+                    <a href="tel:jantaairconditioner730@gmail.com">
+                        <i class="fa-solid fa-envelope"></i> jantaairconditioner730@gmail.com
                     </a>
                 </div>
                 <div class="sc-icon">
                     <a href="javascript:void(0)"><i class="fa-brands fa-facebook-square"></i></a>
                     <a href="javascript:void(0)"><i class="fa-brands fa-instagram"></i></a>
-                    <a href="javascript:void(0)"><i class="fa-brands fa-google-plus-square"></i></a>
+                
                 </div>
             </div>
         </div>
