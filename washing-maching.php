@@ -11,7 +11,7 @@
     <div class="banner-content">
       <!-- <h2>PROVIDE QUALITY<br />REPAIR SERVICE</h2> -->
       <h2>Washing Machine</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad eum doloribus earum tempore.</p>
+      <p>Repair Services in Greater Noida</p>
 
     </div>
   </section>
@@ -21,37 +21,31 @@
       <div class="main_def">
         <div class="main-left">
           <div class="repair">
-            <h2>Washing Machine Service</h2>
-            <p>Your air conditioner stops functioning often when it runs continuously during summers preventing you from
-              getting cool breeze, in that situation you are going to hire an expert who has expertise in ac repair
-              service and can deal with your ac repairing problem efficiently.</p>
+            <h2>Providing best washing machine repairing services in Noida</h2>
+            <p>We are proud to be the best washing machine repair in <strong>Greater Noida</strong>. We have a team full of highly trained technicians who can repair all brands of dryers and washers. The technicians are highly skilled and have the experience to resolve the most complex problems. The following services are offered by our company:</p>
+            <ul class="first-rep">
+              <li>We offer fast, efficient and competitive service for washing machines. We can accommodate any type of fixture.</li>
+              <li>We are a leading service provider in the industry, offering the best twin tub washer spin dryer repair. Our team includes professionals and experts who can repair all types of washers and dryers.</li>
+            </ul>
           </div>
 
           <div class="repair">
             <h3>Washing Machine Service</h3>
-            <p>Air conditioner is basically used in offices and houses in urban areas to keep the hot environment down
-              and get good air to breathe because due to urban pollution it’s almost impossible to get good air without
-              a smoothly functioning ac and because of that there are plenty of domestic and international brands are
-              available in the country.<br><br>
-
-              By booking ac repair service you expect services like cleaning, gas replacement and overhauling done at
-              reasonable cost, however, ac repairing and servicing is a task that cannot be done by an amateur it can
-              only be done by an expert and luckily you are at right spot in the search of an experienced technician for
-              your ac repair service.</p>
+            <p>A washing machine is an excellent addition to your home. <strong>Washing Machine repair</strong> services is available to fix any problems. The <strong>Janta Enterprises</strong> will repair your washing machine to ensure that it performs well. This is due to the highly-skilled, well-trained professionals. <br /><br /> We have many years of washing machine repair experience and can fix any faults in a matter of minutes. We will do our best to solve your problems at home.</p>
           </div>
           <div class="repair">
-            <h3>AC Problem:</h3>
+            <h3>Washing Machine Problem:</h3>
             <ul>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
+              <li>Washing Machine starting problem</li>
+              <li>Washing Machine starting problem</li>
+              <li>Washing Machine starting problem</li>
+              <li>Washing Machine starting problem</li>
+              <li>Washing Machine starting problem</li>
+              <li>Washing Machine starting problem</li>
+              <li>Washing Machine starting problem</li>
+              <li>Washing Machine starting problem</li>
+              <li>Washing Machine starting problem</li>
+              <li>Washing Machine starting problem</li>
             </ul>
           </div>
         </div>
@@ -59,33 +53,33 @@
           <div class="repair">
             <h2>All Brands</h2>
             <ul>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
+              <li>Godrej Washing Machine repairing</li>
+              <li>Whirlpool Washing Machine repairing</li>
+              <li>Samsung Washing Machine repairing</li>
+              <li>LG Washing Machine repairing</li>
+              <li>IFB Washing Machine repairing</li>
+              <li>Panasonic Washing Machine repairing</li>
+              <li>Videocon Washing Machine repairing</li>
+              <li>Voltas Washing Machine repairing</li>
+              <!-- <li>Voltas Washing Machine repairing</li>
+              <li>Voltas Washing Machine repairing</li>
+              <li>Voltas Washing Machine repairing</li>
+              <li>Voltas Washing Machine repairing</li>
+              <li>Voltas Washing Machine repairing</li>
+              <li>Voltas Washing Machine repairing</li> -->
             </ul>
           </div>
           <div class="repair">
             <h2>Why Choose us</h2>
             <ul>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
+              <li>Godrej Washing Machine repairing</li>
+              <li>Whirlpool Washing Machine repairing</li>
+              <li>Samsung Washing Machine repairing</li>
+              <li>LG Washing Machine repairing</li>
+              <li>IFB Washing Machine repairing</li>
+              <li>Panasonic Washing Machine repairing</li>
+              <li>Videocon Washing Machine repairing</li>
+              <li>Voltas Washing Machine repairing</li>
 
             </ul>
           </div>
@@ -111,10 +105,7 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
-              deserunt
-              eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+            <p>Our highly-trained and experienced technicians will quickly find and fix any fault to your machine and complete the repair in a matter of minutes.</p>
           </div>
         </div>
         <div class="comm-d">
@@ -129,10 +120,7 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
-              deserunt
-              eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+            <p>Our latest technology and experienced technicians allow us to repair any type of problem on the machine.</p>
           </div>
         </div>
         <div class="comm-d">
@@ -147,10 +135,7 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
-              deserunt
-              eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+            <p>Each service and spare part comes with warranty.</p>
           </div>
         </div>
         <div class="comm-d">
@@ -165,10 +150,7 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
-              deserunt
-              eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+            <p>Our team includes highly-skilled technicians who can provide fast, reliable service.</p>
           </div>
         </div>
         <div class="comm-d">
@@ -183,10 +165,7 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
-              deserunt
-              eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+            <p>Accessible 24/7 at very affordable prices.</p>
           </div>
         </div>
         <div class="comm-d">
@@ -201,10 +180,7 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
-              deserunt
-              eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+            <p>Our latest technology and experienced technicians allow us to repair any type of problem on the machine.</p>
           </div>
         </div>
     

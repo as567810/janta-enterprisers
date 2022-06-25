@@ -219,6 +219,13 @@
           <img src="images/service-man.jpg" alt="" />
         </div>
 
+
+    <section class="testimonial-sec wow fadeIn">
+        <div class="container">
+            <div class="main">
+                <div class="lt">
+                    <img src="images/service-women.jpg" alt="" />
+
         <div class="main-s">
         <h2>Happy customer says about service</h2>
           <div class="swiper mySwiper2">
@@ -235,6 +242,7 @@
                       <p>Customer</p>
                     </div>
                   </div>
+
                 </div>
               </div>
               <div class="swiper-slide">

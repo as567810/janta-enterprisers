@@ -11,7 +11,7 @@
     <div class="banner-content">
       <!-- <h2>PROVIDE QUALITY<br />REPAIR SERVICE</h2> -->
       <h2>Geyser</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad eum doloribus earum tempore.</p>
+      <p>Geyser Repair Services in Greater Noida</p>
 
     </div>
   </section>
@@ -22,36 +22,26 @@
         <div class="main-left">
           <div class="repair">
             <h2>Geyser Service</h2>
-            <p>Your air conditioner stops functioning often when it runs continuously during summers preventing you from
-              getting cool breeze, in that situation you are going to hire an expert who has expertise in ac repair
-              service and can deal with your ac repairing problem efficiently.</p>
+            <p>Geyser is an appliance that heats water and keeps it at a constant temperature. They are also the most essential necessity in the home. Geysers become a necessity as winter approaches. You can only enjoy the winter breeze if you have hot water. Winters are blessed with geysers. It is difficult to <strong>find geyser repairing in Greater Noida</strong>. <strong>Janta Enterprises</strong> provides the <strong>best geyser repair services in Greater Noida</strong>, whether to change, fix or install.</p>
           </div>
 
           <div class="repair">
             <h3>Geyser Service</h3>
-            <p>Air conditioner is basically used in offices and houses in urban areas to keep the hot environment down
-              and get good air to breathe because due to urban pollution it’s almost impossible to get good air without
-              a smoothly functioning ac and because of that there are plenty of domestic and international brands are
-              available in the country.<br><br>
-
-              By booking ac repair service you expect services like cleaning, gas replacement and overhauling done at
-              reasonable cost, however, ac repairing and servicing is a task that cannot be done by an amateur it can
-              only be done by an expert and luckily you are at right spot in the search of an experienced technician for
-              your ac repair service.</p>
+            <p>The most important thing is to find reliable <strong>geyser repair services centre in Noida</strong>. You may be the only one at home with a broken geyser or you need to replace it. Or you might be looking for a service provider to install your new geyser. Security is also a concern. Janta Enterprises, which provides expert and skilled technicians with security and satisfaction that is 100%, is your best choice. After receiving your complaint, our skilled and responsible workers will be able to reach your door within 45 minutes. They will have all the tools they need.</p>
           </div>
           <div class="repair">
             <h3>AC Problem:</h3>
             <ul>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
+              <li>Geyser starting problem</li>
+              <li>Geyser starting problem</li>
+              <li>Geyser starting problem</li>
+              <li>Geyser starting problem</li>
+              <li>Geyser starting problem</li>
+              <li>Geyser starting problem</li>
+              <li>Geyser starting problem</li>
+              <li>Geyser starting problem</li>
+              <li>Geyser starting problem</li>
+              <li>Geyser starting problem</li>
             </ul>
           </div>
         </div>
@@ -59,33 +49,33 @@
           <div class="repair">
             <h2>All Brands</h2>
             <ul>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
+              <li>Godrej Geyser repairing</li>
+              <li>Whirlpool Geyser repairing</li>
+              <li>Samsung Geyser repairing</li>
+              <li>LG Geyser repairing</li>
+              <li>IFB Geyser repairing</li>
+              <li>Panasonic Geyser repairing</li>
+              <li>Videocon Geyser repairing</li>
+              <li>Voltas Geyser repairing</li>
+              <!-- <li>Voltas Geyser repairing</li>
+              <li>Voltas Geyser repairing</li>
+              <li>Voltas Geyser repairing</li>
+              <li>Voltas Geyser repairing</li>
+              <li>Voltas Geyser repairing</li>
+              <li>Voltas Geyser repairing</li> -->
             </ul>
           </div>
           <div class="repair">
             <h2>Why Choose us</h2>
             <ul>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
+              <li>Godrej Geyser repairing</li>
+              <li>Whirlpool Geyser repairing</li>
+              <li>Samsung Geyser repairing</li>
+              <li>LG Geyser repairing</li>
+              <li>IFB Geyser repairing</li>
+              <li>Panasonic Geyser repairing</li>
+              <li>Videocon Geyser repairing</li>
+              <li>Voltas Geyser repairing</li>
 
             </ul>
           </div>
