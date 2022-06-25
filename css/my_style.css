@@ -541,6 +541,9 @@ header nav ul li a.active {
 .testimonial-sec {
     background-color: #1c294b;
 }
+.testimonial-sec .lt img{
+    height: 100%;
+}
 
 .testimonial-sec .rt {
     padding: 50px 0;
