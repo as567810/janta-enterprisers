@@ -30,7 +30,7 @@
             <h3>What makes us a good microwave oven repair company?</h3>
             <p>Janta Enterprises believes that customer satisfaction is our top priority. Therefore, we keep the process simple and painless. Simply call us to let us know the problem. Our professional <strong>microwave oven repair service in Greater Noida</strong> will be at your home in no time. They will inspect your appliance thoroughly and identify the cause of any problems. <br /><br /> The repair will be completed by the specialists. They are always ready to fix any problem that may arise. Your microwave will soon be back to its original condition. Please let us know if your appliance needs to be picked up and dropped off as part of the repair. We will take all steps to ensure customer satisfaction.</p>
           </div>
-          <div class="repair">
+          <!-- <div class="repair">
             <h3>Microwave Problem:</h3>
             <ul>
               <li>Microwave starting problem</li>
@@ -44,7 +44,7 @@
               <li>Microwave starting problem</li>
               <li>Microwave starting problem</li>
             </ul>
-          </div>
+          </div> -->
         </div>
         <div class="main-right">
           <div class="repair">
@@ -101,10 +101,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -119,10 +119,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -137,10 +137,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -155,10 +155,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -173,10 +173,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -191,10 +191,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
     

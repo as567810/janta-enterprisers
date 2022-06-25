@@ -80,7 +80,7 @@
             <p>Have questions regarding your business' heating or AC system? We are available 24 hours a day to assist you with your questions and concerns. For a quote, call us today!</p>
           </div>
 
-          <div class="repair">
+          <!-- <div class="repair">
             <h3>Commercial Problem:</h3>
             <ul>
               <li>Commercial problem</li>
@@ -94,7 +94,7 @@
               <li>Commercial problem</li>
               <li>Commercial problem</li>
             </ul>
-          </div>
+          </div> -->
         </div>
         <div class="main-right">
           <div class="repair">
@@ -107,13 +107,13 @@
               <li>Commercial service</li>
               <li>Commercial service</li>
               <li>Commercial service</li>
+              <!-- <li>Commercial service</li>
               <li>Commercial service</li>
               <li>Commercial service</li>
               <li>Commercial service</li>
               <li>Commercial service</li>
               <li>Commercial service</li>
-              <li>Commercial service</li>
-              <li>Commercial service</li>
+              <li>Commercial service</li> -->
             </ul>
           </div>
           <div class="repair">

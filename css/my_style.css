@@ -560,8 +560,17 @@ header nav ul li a.active {
     margin-bottom: 10px;
     margin-left: 20px;
     margin-top: 70px;
-
-
+    
+    
+}
+.testimonial-sec .swiper-pagination .swiper-pagination-bullet{
+    background-color: #fff;
+    opacity: .7;
+    border-radius: 0;
+}
+.testimonial-sec .swiper-pagination .swiper-pagination-bullet-active{
+    background-color: #ff6b00;
+    opacity: 1;
 }
 
 .testimonial-sec .rt p {

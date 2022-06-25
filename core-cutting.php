@@ -30,7 +30,7 @@
             <h3>Janta Enterprises is best core cutting services provider in Greater Noida</h3>
             <p>Our Construction teams take safety first as we still, take proper safety precautions when using this piece of machinery. Just like any large piece of machinery, only trained specialists should operate wire saws by Core Cutting in Greater Noida Call Us at:</p>
           </div>
-          <div class="repair">
+          <!-- <div class="repair">
             <h3>AC Problem:</h3>
             <ul>
               <li>Core Cutting problem</li>
@@ -44,7 +44,7 @@
               <li>Core Cutting problem</li>
               <li>Core Cutting problem</li>
             </ul>
-          </div>
+          </div> -->
         </div>
         <div class="main-right">
           <div class="repair">
@@ -57,13 +57,13 @@
               <li>Core Cutting repairing Service</li>
               <li>Core Cutting repairing Service</li>
               <li>Core Cutting repairing Service</li>
+              <!-- <li>Core Cutting repairing Service</li>
               <li>Core Cutting repairing Service</li>
               <li>Core Cutting repairing Service</li>
               <li>Core Cutting repairing Service</li>
               <li>Core Cutting repairing Service</li>
               <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
+              <li>Core Cutting repairing Service</li> -->
             </ul>
           </div>
           <div class="repair">
@@ -102,10 +102,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -120,10 +120,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -138,10 +138,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -156,10 +156,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -174,10 +174,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -192,10 +192,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
     

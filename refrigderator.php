@@ -33,7 +33,7 @@
             <p><strong>Janta Enterprises</strong> is all you need to get your fridge working again. Janta Enterprises guarantees that both our staff and fridge repair service are reliable. This will give you complete peace of mind. Janta Enterprises refrigerator repairs offer the highest quality and most affordable prices. We understand the urgency of fridge repair in Greater Noida and how important it is to ensure that your daily life does not get disrupted. You can expect prompt and professional service at the most competitive prices.</p>
             <p>Janta Enterprises makes it easy to say goodbye to the hassle of hiring technicians and cleaning out your freezer.</p>
           </div>
-          <div class="repair">
+          <!-- <div class="repair">
             <h3>Refrigerator Problem:</h3>
             <ul>
               <li>Refrigerator starting problem</li>
@@ -47,7 +47,7 @@
               <li>Refrigerator starting problem</li>
               <li>Refrigerator starting problem</li>
             </ul>
-          </div>
+          </div> -->
         </div>
         <div class="main-right">
           <div class="repair">
@@ -104,10 +104,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -122,10 +122,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -140,10 +140,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -158,10 +158,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -176,10 +176,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -194,10 +194,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
     

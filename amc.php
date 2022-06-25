@@ -38,53 +38,53 @@
               only be done by an expert and luckily you are at right spot in the search of an experienced technician for
               your ac repair service.</p> -->
           </div>
-          <div class="repair">
+          <!-- <div class="repair">
             <h3>AC Problem:</h3>
             <ul>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
             </ul>
-          </div>
+          </div> -->
         </div>
         <div class="main-right">
           <div class="repair">
             <h2>All Brands</h2>
             <ul>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <!-- <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li> -->
             </ul>
           </div>
           <div class="repair">
             <h2>Why Choose us</h2>
             <ul>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
-              <li>Voltas AC repairing and</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
+              <li>AMC Service</li>
 
             </ul>
           </div>

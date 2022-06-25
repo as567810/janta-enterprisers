@@ -33,7 +33,7 @@
             <h3>Washing Machine Service</h3>
             <p>A washing machine is an excellent addition to your home. <strong>Washing Machine repair</strong> services is available to fix any problems. The <strong>Janta Enterprises</strong> will repair your washing machine to ensure that it performs well. This is due to the highly-skilled, well-trained professionals. <br /><br /> We have many years of washing machine repair experience and can fix any faults in a matter of minutes. We will do our best to solve your problems at home.</p>
           </div>
-          <div class="repair">
+          <!-- <div class="repair">
             <h3>Washing Machine Problem:</h3>
             <ul>
               <li>Washing Machine starting problem</li>
@@ -47,7 +47,7 @@
               <li>Washing Machine starting problem</li>
               <li>Washing Machine starting problem</li>
             </ul>
-          </div>
+          </div> -->
         </div>
         <div class="main-right">
           <div class="repair">

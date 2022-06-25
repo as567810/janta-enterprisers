@@ -29,7 +29,7 @@
             <h3>Geyser Service</h3>
             <p>The most important thing is to find reliable <strong>geyser repair services centre in Noida</strong>. You may be the only one at home with a broken geyser or you need to replace it. Or you might be looking for a service provider to install your new geyser. Security is also a concern. Janta Enterprises, which provides expert and skilled technicians with security and satisfaction that is 100%, is your best choice. After receiving your complaint, our skilled and responsible workers will be able to reach your door within 45 minutes. They will have all the tools they need.</p>
           </div>
-          <div class="repair">
+          <!-- <div class="repair">
             <h3>AC Problem:</h3>
             <ul>
               <li>Geyser starting problem</li>
@@ -43,7 +43,7 @@
               <li>Geyser starting problem</li>
               <li>Geyser starting problem</li>
             </ul>
-          </div>
+          </div> -->
         </div>
         <div class="main-right">
           <div class="repair">
@@ -101,10 +101,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -119,10 +119,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -137,10 +137,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -155,10 +155,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -173,10 +173,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
         <div class="comm-d">
@@ -191,10 +191,10 @@
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
+            <!-- <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod similique magni mollitia natus odio
               deserunt
               eum tenetur iusto excepturi aliquid nostrum, impedit ipsa eaque quis blanditiis cum ipsum voluptatibus
-              corrupti.</p>
+              corrupti.</p> -->
           </div>
         </div>
     

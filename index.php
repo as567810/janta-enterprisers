@@ -213,13 +213,12 @@
 
 
 
-    <section class="testimonial-sec wow fadeIn">
-        <div class="container">
-            <div class="main">
-                <div class="lt">
-                    <img src="images/service-women.jpg" alt="" />
-
-</div>
+  <section class="testimonial-sec wow fadeIn">
+    <div class="container">
+        <div class="main">
+          <div class="lt">
+            <img src="images/service-women.jpg" alt="" />
+          </div>
 
         <div class="main-s">
         <h2>Happy customer says about service</h2>
@@ -256,6 +255,7 @@
                 </div>
               </div>
             </div>
+            <div class="swiper-pagination"></div>
           </div>
         </div>
       </div>
