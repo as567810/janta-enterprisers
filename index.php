@@ -211,13 +211,6 @@
     </div>
   </section>
 
-  <section class="testimonial-sec wow fadeIn">
-    <div class="container">
-      <div class="main">
-
-        <div class="lt">
-          <img src="images/service-man.jpg" alt="" />
-        </div>
 
 
     <section class="testimonial-sec wow fadeIn">
