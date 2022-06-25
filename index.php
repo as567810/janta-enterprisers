@@ -207,7 +207,7 @@
         <div class="container">
             <div class="main">
                 <div class="lt">
-                    <img src="images/service-man.jpg" alt="" />
+                    <img src="images/service-women.jpg" alt="" />
                 </div>
                 <div class="rt">
                     <h2>Happy customer says about service</h2>
