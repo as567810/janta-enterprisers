@@ -563,6 +563,10 @@ header nav ul li a.active {
     
     
 }
+
+.testimonial-sec .main{
+    flex-direction: row-reverse;
+}
 .testimonial-sec .swiper-pagination .swiper-pagination-bullet{
     background-color: #fff;
     opacity: .7;
