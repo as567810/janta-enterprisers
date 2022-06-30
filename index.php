@@ -14,7 +14,7 @@
           <img class="desk" src="images/banner1.jpg" alt="" />
           <img class="mob" src="images/mob-banner-1.jpg" alt="" />
           <div class="banner-content">
-            <h2>Home Appliance Repair Service
+            <h2>AC Repair Services
             </h2>
             
             <!-- <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p> -->
@@ -27,7 +27,7 @@
           <img class="desk" src="images/banner2.jpg" alt="" />
           <img class="mob" src="images/mob-banner-2.jpg" alt="" />
           <div class="banner-content">
-            <h2>Home Appliance Repair Service
+            <h2>Home Appliances Repair Services
             </h2>
            
             <div class="butn">
@@ -79,7 +79,7 @@
             <div class="small-icon">
               <i class="fa-solid fa-house-user"></i>
             </div>
-            <h2>AC Service</h2>
+            <h2>AC Repair Services</h2>
             
             <a href="air-condition.php" class="btn">Book</a>
           </div>
@@ -92,7 +92,7 @@
             <div class="small-icon">
               <i class="fa-solid fa-toolbox"></i>
             </div>
-            <h2>Geyser Service</h2>
+            <h2>Geyser Repair Services</h2>
             
             <a href="geyser.php" class="btn">Book</a>
           </div>
@@ -105,7 +105,7 @@
             <div class="small-icon">
               <i class="fa-solid fa-house-user"></i>
             </div>
-            <h2>Microwave Service</h2>
+            <h2>Microwave Repair Services</h2>
            
             <a href="microwave.php" class="btn">Book</a>
           </div>
@@ -118,7 +118,7 @@
             <div class="small-icon">
               <i class="fa-solid fa-toolbox"></i>
             </div>
-            <h2>Refrigerator Service</h2>
+            <h2>Refrigerator Repair Services</h2>
             
             <a href="refrigderator.php" class="btn">Book</a>
           </div>
@@ -131,7 +131,7 @@
             <div class="small-icon">
               <i class="fa-solid fa-house-user"></i>
             </div>
-            <h2>Washing Machine Service</h2>
+            <h2>Washing Machine Repair Services</h2>
             
             <a href="washing-maching.php" class="btn">Book</a>
           </div>
@@ -221,7 +221,7 @@
           </div>
 
         <div class="main-s">
-        <h2>Happy customer says about service</h2>
+        <h2>Happy Customer Says About Our Service</h2>
           <div class="swiper mySwiper2">
             <div class="swiper-wrapper">
               <div class="swiper-slide">
@@ -269,7 +269,7 @@
           <img src="images/cosn.jpg" alt="" />
         </div>
         <div class="rt wow fadeInRight">
-          <h2>Have any question or free consultancy?</h2>
+          <h2>Have Any Question for Your Appliances Problem?</h2>
           <form action="">
             <div class="inp">
               <input type="text" class="name" val="" placeholder="Full Name" required />

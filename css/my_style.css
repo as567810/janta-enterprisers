@@ -64,6 +64,7 @@ img {
 .main {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .lt,
@@ -275,7 +276,8 @@ header nav ul li a.active {
     width: 50%;
 }
 
-.banner-sec .banner-content h2 {
+.banner-sec .banner-content h2,
+.banner-sec .banner-content h1 {
     font-size: 44px;
     color: #fff;
 }
@@ -510,6 +512,7 @@ header nav ul li a.active {
 
 .empower-sec .rt .inn-main {
     margin-top: 30px;
+    justify-content: unset;
 }
 
 .empower-sec .rt .inn-main img {
@@ -545,6 +548,9 @@ header nav ul li a.active {
     height: 100%;
 }
 
+.testimonial-sec .main{
+    flex-direction: row-reverse;
+}
 .testimonial-sec .rt {
     padding: 10px 0;
     padding-left: 20px;
@@ -562,10 +568,6 @@ header nav ul li a.active {
     margin-top: 70px;
     
     
-}
-
-.testimonial-sec .main{
-    flex-direction: row-reverse;
 }
 .testimonial-sec .swiper-pagination .swiper-pagination-bullet{
     background-color: #fff;
@@ -936,10 +938,10 @@ footer .copyright a i {
     outline: 0;
     font-size: 16px;
     padding: 12px;
-    border: 1px solid transparent;
+    border: 1px solid #cfcfcf;
 
     box-shadow: 0 3px 6px #ccc;
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .form-sec form .inp textarea {
@@ -947,9 +949,9 @@ footer .copyright a i {
     font-size: 16px;
     outline: 0;
     padding: 12px;
-    border: 1px solid transparent;
+    border: 1px solid #cfcfcf;
     box-shadow: 0 3px 6px #ccc;
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .form-sec form .inp textarea::placeholder {
@@ -1200,14 +1202,32 @@ footer .copyright a i {
 .reviews .main-d {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: center;
 }
-
+.reviews .head-comm{
+    font-size: 32px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 30px;
+}
+.reviews .head-comm::before{
+    position: absolute;
+    content: '';
+    width: 50px;
+    height: 2px;
+    background: #01287a;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -10px;
+}
 .reviews .main-d .comm-d {
     width: 31.33%;
     margin: 1%;
     background: #fff;
     transition: all .4s;
+    border: 1px dotted #e7e7e7;
+    border-radius: 6px;
+    overflow: hidden;
 }
 .reviews .main-d .comm-d:hover {
     box-shadow: 0 20px 60px 0 rgb(0 0 0 / 10%);
@@ -1223,11 +1243,12 @@ footer .copyright a i {
 }
 
 .reviews .main-d .comm-d .low{
-    padding: 10px 20px 30px;
+    padding: 10px 20px 10px;
 }
 .reviews .main-d .comm-d h2 {
     font-size: 23px;
     min-height: 56px;
+    color: #1f73bc;
 }
 .reviews .ratings{
     margin-top: 10px;

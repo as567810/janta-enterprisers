@@ -6,11 +6,11 @@
   <?php include('include/header.php')?>
 
   <section class="banner-sec">
-    <img class="desk" src="images/banner2.jpg" alt="" />
-    <img class="mob" src="images/mob-banner-2.jpg" alt="" />
+    <img class="desk" src="images/Commercial-Services.jpg" alt="" />
+    <img class="mob" src="images/Commercial-Services.jpg" alt="" />
     <div class="banner-content">
       <!-- <h2>PROVIDE QUALITY<br />REPAIR SERVICE</h2> -->
-      <h2>COMMERCIAL SERVICE</h2>
+      <h2>COMMERCIAL SERVICES</h2>
       <p>Janta Enterprises provides commercial HVAC installation, maintenance, and repair services in Greater Noida</p>
 
     </div>
@@ -64,7 +64,7 @@
       <div class="main_def">
         <div class="main-left">
           <div class="repair">
-            <h2>Commercial Service</h2>
+            <h2>HVAC Services in Greater Noida</h2>
             <p>Janta Enterprises provides commercial acunits upto 20 tons. With years of experience, our team keeps Noida offices, bars and retail spaces comfortable throughout the year. Our team of commercial technicians is certified to handle everything from AC repairs, maintenance and installation.</p>
             <p>Broken air conditioners can cause your business to be put on hold.Janta Enterprises can provide quick repairs. Janta Enterprises can repair and install any make or model of commercial AC unit. We will work around your schedule to fix your AC quickly and economically.</p>
           </div>
@@ -100,13 +100,13 @@
           <div class="repair">
             <h2>All Brands</h2>
             <ul>
-              <li>Commercial service</li>
-              <li>Commercial service</li>
-              <li>Commercial service</li>
-              <li>Commercial service</li>
-              <li>Commercial service</li>
-              <li>Commercial service</li>
-              <li>Commercial service</li>
+              <li>LG </li>
+              <li>Daikin</li>
+              <li>Blue Star</li>
+              <li>Hitachi </li>
+              <li>Godrej </li>
+              <li>Samsung</li>
+              <li>Whirlpool</li>
               <!-- <li>Commercial service</li>
               <li>Commercial service</li>
               <li>Commercial service</li>
@@ -119,15 +119,12 @@
           <div class="repair">
             <h2>Why Choose us</h2>
             <ul>
-              <li>Commercial repairing</li>
-              <li>Commercial repairing</li>
-              <li>Commercial repairing</li>
-              <li>Commercial repairing</li>
-              <li>Commercial repairing</li>
-              <li>Commercial repairing</li>
-              <li>Commercial repairing</li>
-              <li>Commercial repairing</li>
-
+              <li>Repair & Maintenance</li>
+              <li>Pricing you can trust</li>
+              <li>Warranted</li>
+              <li>On Time Service</li>
+              <li>Well trained technician</li>
+              <li>We offer the least value ensure</li>
             </ul>
           </div>
         </div>

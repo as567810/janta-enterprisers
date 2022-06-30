@@ -6,13 +6,11 @@
   <?php include('include/header.php')?>
 
   <section class="banner-sec">
-    <img class="desk" src="images/banner2.jpg" alt="" />
-    <img class="mob" src="images/mob-banner-2.jpg" alt="" />
+    <img class="desk" src="images/core-cutting-services-in-greater-noida.jpg" alt="" />
+    <img class="mob" src="images/core-cutting-services-in-greater-noida.jpg" alt="" />
     <div class="banner-content">
       <!-- <h2>PROVIDE QUALITY<br />REPAIR SERVICE</h2> -->
-      <h2>Core Cutting</h2>
-      <p>Core Cutting  Services in Greater Noida</p>
-
+      <h2>Core Cutting  Services in Greater Noida</h2>
     </div>
   </section>
 
@@ -21,7 +19,7 @@
       <div class="main_def">
         <div class="main-left">
           <div class="repair">
-            <h2>Core Cutting Service</h2>
+            <h2>Core Cutting  Services in Greater Noida</h2>
             <p>We have many reasons why conventional diamond Core Cutting in Greater Noida.</p>
             <p>Saw blades won't work for a concrete cutting project: the concrete structure may be good.  The shape may be too irregular to safely workaround, the location may be too inaccessible, or the structure may be too heavily reinforced for blades to cut through. The benefits of using wire saws for concrete construction projects also include we do good or best work core cutting all over Noida.</p>
           </div>
@@ -47,36 +45,15 @@
           </div> -->
         </div>
         <div class="main-right">
-          <div class="repair">
-            <h2>All Brands</h2>
-            <ul>
-              <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
-              <!-- <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li>
-              <li>Core Cutting repairing Service</li> -->
-            </ul>
-          </div>
+          
           <div class="repair">
             <h2>Why Choose us</h2>
             <ul>
-              <li>Core Cutting repairing</li>
-              <li>Core Cutting repairing</li>
-              <li>Core Cutting repairing</li>
-              <li>Core Cutting repairing</li>
-              <li>Core Cutting repairing</li>
-              <li>Core Cutting repairing</li>
-              <li>Core Cutting repairing</li>
-              <li>Core Cutting repairing</li>
+              <li>No extra charge​</li>
+              <li>Expert Technician's​</li>
+              <li>Customer Satisfaction​</li>
+              <li>On Time Service​</li>
+              <li>Licensed Machine</li>
 
             </ul>
           </div>

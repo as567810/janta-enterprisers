@@ -6,12 +6,12 @@
   <?php include('include/header.php')?>
 
   <section class="banner-sec">
-    <img class="desk" src="images/banner2.jpg" alt="" />
-    <img class="mob" src="images/mob-banner-2.jpg" alt="" />
+    <img class="desk" src="images/amc-banner.jpg" alt="" />
+    <img class="mob" src="images/amc-banner.jpg" alt="" />
     <div class="banner-content">
       <!-- <h2>PROVIDE QUALITY<br />REPAIR SERVICE</h2> -->
-      <h2>AMC</h2>
-      <p>AMC SERVICE in Greater Noida</p>
+      <h2>Home Appliances AMC Services</h2>
+      <p>AMC Services in Greater Noida</p>
 
     </div>
   </section>
@@ -21,12 +21,12 @@
       <div class="main_def">
         <div class="main-left">
           <div class="repair">
-            <h2>AMC Service</h2>
+            <h2>Janta Enterprises AMC Services</h2>
             <p><strong>Janta Enterprises</strong> provides residential and commercial maintenance and repairs in Greater Noida. Reliable, trustworthy, and trusted AMC services, best electrician for electrical maintenance services, ac repair & maintenance service, refrigerator repair services, microwave oven repair, geyser repair services, washing machine repair, cloth dryer repair in Greater Noida</p>
           </div>
 
           <div class="repair">
-            <h3>About AMC Service</h3>
+            <h3>AMC Services for All Home Appliances</h3>
             <p>AMC plans are an annual maintenance contract that is very beneficial for electronic goods such as Air conditioners, Refrigerators, Washing Machines, Owen, etc.</p>
             <!-- <p>Air conditioner is basically used in offices and houses in urban areas to keep the hot environment down
               and get good air to breathe because due to urban pollution it’s almost impossible to get good air without
@@ -58,14 +58,13 @@
           <div class="repair">
             <h2>All Brands</h2>
             <ul>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
+              <li>LG </li>
+              <li>Daikin</li>
+              <li>Blue Star</li>
+              <li>Hitachi </li>
+              <li>Godrej </li>
+              <li>Samsung</li>
+              <li>Whirlpool</li>
               <!-- <li>AMC Service</li>
               <li>AMC Service</li>
               <li>AMC Service</li>
@@ -77,14 +76,12 @@
           <div class="repair">
             <h2>Why Choose us</h2>
             <ul>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
-              <li>AMC Service</li>
+              <li>Repair & Maintenance</li>
+              <li>Pricing you can trust</li>
+              <li>Warranted</li>
+              <li>On Time Service</li>
+              <li>Well trained technician</li>
+              <li>We offer the least value ensure</li>
 
             </ul>
           </div>
@@ -95,103 +92,7 @@
 
     </div>
   </section>
-  <section class="reviews">
-    <div class="container">
-      <div class="main-d">
-        <div class="comm-d">
-          <figure>
-            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
-          </figure>
-          <div class="low">
-            <h2>Top AMC Service</h2>
-            <div class="ratings"> <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star"></span>
-              <span class="fa fa-star"></span>
-            </div>
-            <p>Air conditioner amc can be very beneficial for regular users.</p>
-          </div>
-        </div>
-        <div class="comm-d">
-          <figure>
-            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
-          </figure>
-          <div class="low">
-            <h2>Top AMC Service</h2>
-            <div class="ratings"> <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star"></span>
-              <span class="fa fa-star"></span>
-            </div>
-            <p>We provide the best and most consistent amc for air conditioners.</p>
-          </div>
-        </div>
-        <div class="comm-d">
-          <figure>
-            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
-          </figure>
-          <div class="low">
-            <h2>Top AMC Service</h2>
-            <div class="ratings"> <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star"></span>
-              <span class="fa fa-star"></span>
-            </div>
-            <p>24/7 emergency service, one service before and one after the use.</p>
-          </div>
-        </div>
-        <div class="comm-d">
-          <figure>
-            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
-          </figure>
-          <div class="low">
-            <h2>Top AMC Service</h2>
-            <div class="ratings"> <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star"></span>
-              <span class="fa fa-star"></span>
-            </div>
-            <p>Regular inspection by our experts.</p>
-          </div>
-        </div>
-        <div class="comm-d">
-          <figure>
-            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
-          </figure>
-          <div class="low">
-            <h2>Top AMC Service</h2>
-            <div class="ratings"> <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star"></span>
-              <span class="fa fa-star"></span>
-            </div>
-            <p>Maintenance and repair on one call, for any time under contract.</p>
-          </div>
-        </div>
-        <div class="comm-d">
-          <figure>
-            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
-          </figure>
-          <div class="low">
-            <h2>Top AMC Service</h2>
-            <div class="ratings"> <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star"></span>
-              <span class="fa fa-star"></span>
-            </div>
-            <p>Reserve charges.</p>
-          </div>
-        </div>
-    
-      </div>
-    </div>
-  </section>
+  
 
   <?php include('include/footer.php')?>
 </body>

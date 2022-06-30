@@ -10,7 +10,7 @@
         <div class="banner-content">
             <!-- <h2>PROVIDE QUALITY<br />REPAIR SERVICE</h2> -->
             <h2>CONTACT US</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad eum doloribus earum tempore.</p>
+            <p>Leave us your details and we'll get back to you as soon as possible.</p>
            
         </div>
     </section>
@@ -44,11 +44,15 @@
                     </div>
                     <div class="detail">
                         <i class="fa-solid fa-phone"></i>
-                        <p><a href="#">+91 9999999999</a></p>
+                        <p><a href="tel:+919458474345 ">+91-9458474345 </a></p>
+                    </div>
+                    <div class="detail">
+                        <i class="fa-solid fa-phone"></i>
+                        <p><a href="tel:+918630964269  ">+91-8630964269  </a></p>
                     </div>
                     <div class="detail">
                         <i class="fa-solid fa-envelope"></i>
-                        <p><a href="#">info@mail.com</a></p>
+                        <p><a href="mailto:jantaairconditioner730@gmail.com">jantaairconditioner730@gmail.com</a></p>
                     </div>
                 </div>
             </div>

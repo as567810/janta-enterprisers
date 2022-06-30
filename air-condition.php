@@ -10,8 +10,7 @@
     <img class="mob" src="images/mob-banner-2.jpg" alt="" />
     <div class="banner-content">
       <!-- <h2>PROVIDE QUALITY<br />REPAIR SERVICE</h2> -->
-      <h2>AIR CONDITION</h2>
-      <p>Split AC Installation Underground Piping in Greater Noida</p>
+      <h1>AC Repair Services in Greater  Noida</h1>
 
     </div>
   </section>
@@ -64,38 +63,36 @@
       <div class="main_def">
         <div class="main-left">
           <div class="repair">
-            <h2>AC Repair Service</h2>
-            <p>First, the AC window is fixed to the outer frame using screws. With the help of screws, the inner unit of the window AC is secured inside the outer shell. Once the inner unit of the window AC has been securely fixed to the outer case, it can be turned on to verify that it starts correctly. Next, the cover or front screen is placed on the inner unit. The air filter for the window AC is then inserted and the cover is closed.</p>
-            <p>Your air conditioner stops functioning often when it runs continuously during summers preventing you from
-              getting cool breeze, in that situation you are going to hire an expert who has expertise in ac repair
-              service and can deal with your ac repairing problem efficiently.</p>
+            <h2>AC Repair and Maintenance Services in Greater Noida</h2>
+            <p>Janta Enterprises is your best choice for AC repair services in Greater Noida. Modern business and house owners need air conditions. We  are a trusted provider of solutions in Noida, so whether you own a business or just want to make your home more comfortable, we can help. We provide the best AC maintenance services in Greater Noida. We also offer installation and long-term maintenance.AC maintenance is essential to keep your air conditioners in top condition. It helps you identify potential problems early and prevents them causing more inconveniences and costly repairs. Our team of maintenance and service professionals will inspect your unit thoroughly and pinpoint the problem to find the best solution. We can get your air conditioner running again in no matter how fast.</p>
+			
           </div>
 
           <div class="repair">
-            <h3>About Ac Repair Service</h3>
-            <p>Air conditioner is basically used in offices and houses in urban areas to keep the hot environment down
-              and get good air to breathe because due to urban pollution it’s almost impossible to get good air without
-              a smoothly functioning ac and because of that there are plenty of domestic and international brands are
-              available in the country.<br><br>
+            <h3>Our AC Repair and Maintenance Process</h3>
+            <p>Our service is very easy. Our experts will attempt to solve your problem by asking simple questions as soon as you contact us. We offer rates and a quote in most cases.<br><br>
 
-              By booking ac repair service you expect services like cleaning, gas replacement and overhauling done at
-              reasonable cost, however, ac repairing and servicing is a task that cannot be done by an amateur it can
-              only be done by an expert and luckily you are at right spot in the search of an experienced technician for
-              your ac repair service.</p>
+              Once we reach our customer's location, we begin our preliminary checks. If necessary, we recommend amends. We educate our customers about the problem and make it transparent. <br><br>Our team then begins its work and repairs. All safety precautions are taken by our team.</p>
+			  
+			  <ul>
+				<li>Air filter replacement</li>
+				<li>Cleaning condenser coils, evaporator units</li>
+				<li>Cleaning and inspection of the drain line.</li>
+				<li>Lubrication of blower and condenser fans</li>
+				<li>Checking the basic AC controls and wiring</li>
+				<li>For proper functioning, a thorough check of the thermostat</li>
+				<li>Cleaning and inspection of the dustwork.</li>
+			</ul>
           </div>
           <div class="repair">
             <h3>AC Problem:</h3>
             <ul>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
-              <li>Air condition starting problem</li>
+              <li>Poor Performance</li>
+              <li>Leaking Water</li>
+              <li>Failure to Cool</li>
+              <li>No Power</li>
+              <li>Excessive Noise</li>
+              <li>Bad Smell</li>
             </ul>
           </div>
         </div>
@@ -122,14 +119,11 @@
           <div class="repair">
             <h2>Why Choose us</h2>
             <ul>
-              <li>Godrej AC repairing</li>
-              <li>Whirlpool AC repairing</li>
-              <li>Samsung AC repairing</li>
-              <li>LG AC repairing</li>
-              <li>IFB AC repairing</li>
-              <li>Panasonic AC repairing</li>
-              <li>Videocon AC repairing</li>
-              <li>Voltas AC repairing</li>
+              <li>We have completed more than 100,000 jobs for over 40,000 customers since 2010.</li>
+              <li>We have over 20 operational teams and employees, which means we can respond quickly</li>
+              <li>We have 7 dedicated purchasing staff that can source parts for your AC with minimal downtime</li>
+              <li>We respond quicly</li>
+              <li>Ensuring warranties are honoured and claimed at the right time</li>
             </ul>
           </div>
         </div>
@@ -147,14 +141,13 @@
             <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
           </figure>
           <div class="low">
-            <h2>Marking as per wall bracket</h2>
+            <h2>Top AC Repair Services in Greater Noida</h2>
             <div class="ratings"> <span class="fa fa-star checked"></span>
               <span class="fa fa-star checked"></span>
               <span class="fa fa-star checked"></span>
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Inside the split AC box is an aluminum bracket with all necessary attachments and holes. This bracket holds the indoor unit of split AC. The bracket will mark holes on the wall to begin the installation of split AC indoor units.</p>
           </div>
         </div>
         <div class="comm-d">
@@ -162,14 +155,13 @@
             <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
           </figure>
           <div class="low">
-            <h2>Drilling holes into the wall</h2>
+            <h2>Split AC Repair Services</h2>
             <div class="ratings"> <span class="fa fa-star checked"></span>
               <span class="fa fa-star checked"></span>
               <span class="fa fa-star checked"></span>
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>The wall bracket is taken off and the holes are made with a drilling machine. The bracket is then fixed using the screws drilled into the holes.</p>
           </div>
         </div>
         <div class="comm-d">
@@ -177,14 +169,13 @@
             <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
           </figure>
           <div class="low">
-            <h2>Passing important cables and pipes through walls</h2>
+            <h2>Window AC Repair Services in Greater Noida</h2>
             <div class="ratings"> <span class="fa fa-star checked"></span>
               <span class="fa fa-star checked"></span>
               <span class="fa fa-star checked"></span>
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Once the bracket has been fixed to the wall, a large-diameter hole is drilled across it to pass copper pipes, such as drain hose, refrigerant tubing and electrical cable, to connect the indoor unit to the outdoor split AC unit.</p>
           </div>
         </div>
         <div class="comm-d">
@@ -192,14 +183,13 @@
             <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
           </figure>
           <div class="low">
-            <h2>Installation of the indoor split AC unit</h2>
+            <h2>Cassette AC Repair Services in Greater Noida</h2>
             <div class="ratings"> <span class="fa fa-star checked"></span>
               <span class="fa fa-star checked"></span>
               <span class="fa fa-star checked"></span>
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>The indoor split AC unit is now securely mounted to the bracket. The copper pipes, which are also connected to the indoor unit, will be passed through the hole in the wall. The drain pipe connecting to the indoor unit's end is also passed through the hole. It is left open for water drainage</p>
           </div>
         </div>
         <div class="comm-d">
@@ -207,14 +197,13 @@
             <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
           </figure>
           <div class="low">
-            <h2>How to install the outdoor unit for split AC</h2>
+            <h2>AC Installation Services in Greater Noida</h2>
             <div class="ratings"> <span class="fa fa-star checked"></span>
               <span class="fa fa-star checked"></span>
               <span class="fa fa-star checked"></span>
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>Split AC is heavy so be careful. The outdoor unit of split air conditioner is taken outside and placed where it needs to be. With the aid of support, an outdoor unit can be mounted to an exterior wall. The wall where the outdoor unit will be mounted should be strong enough for it to withstand vibrations and weight.</p>
           </div>
         </div>
         <div class="comm-d">
@@ -222,31 +211,16 @@
             <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
           </figure>
           <div class="low">
-            <h2>Installation copper pipes and electrical connections</h2>
+            <h2>AC Gas Filling Services in Greater Noida</h2>
             <div class="ratings"> <span class="fa fa-star checked"></span>
               <span class="fa fa-star checked"></span>
               <span class="fa fa-star checked"></span>
               <span class="fa fa-star"></span>
               <span class="fa fa-star"></span>
             </div>
-            <p>After the outdoor and indoor units of the split-air conditioner have been installed, the copper pipes connecting them are installed. The outdoor unit is connected by the copper pipe that connects to the indoor unit. The hole is then used to pass the electric cable through to connect the indoor AC unit to the outdoor AC unit.</p>
           </div>
         </div>
-        <div class="comm-d">
-          <figure>
-            <img src="images/services/air/Ac-Repair-Service.jpg" alt="">
-          </figure>
-          <div class="low">
-            <h2>Final Check</h2>
-            <div class="ratings"> <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star checked"></span>
-              <span class="fa fa-star"></span>
-              <span class="fa fa-star"></span>
-            </div>
-            <p>After installing the split AC indoor and outdoor units, copper pipes, drain pipe, and all electrical connections, turn on the AC to verify that it works.</p>
-          </div>
-        </div>
+        
     
       </div>
     </div>

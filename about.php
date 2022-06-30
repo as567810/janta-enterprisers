@@ -10,7 +10,7 @@
         <div class="banner-content">
             <!-- <h2>PROVIDE QUALITY<br />REPAIR SERVICE</h2> -->
             <h2>ABOUT US</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam ad eum doloribus earum tempore.</p>
+            <p>We are a Dedicated Home Appliances Repair Company</p>
            
         </div>
     </section>
