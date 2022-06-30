@@ -10,7 +10,7 @@
     <img class="mob" src="images/mob-banner-2.jpg" alt="" />
     <div class="banner-content">
       <!-- <h2>PROVIDE QUALITY<br />REPAIR SERVICE</h2> -->
-      <h2>AIR CONDITION</h2>
+      <h2>AMC</h2>
       <p>AMC SERVICE in Greater Noida</p>
 
     </div>

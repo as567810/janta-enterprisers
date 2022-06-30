@@ -19,6 +19,7 @@
                     <a href="core-cutting.php" class="serv">Core Cutting</a>
                     <a href="commercial.php" class="serv">Commercial Services</a>
                     <a href="amc.php" class="serv">A M C</a>
+                  <a href="under-pipe.php">Underground Pipe Line</a>
                     <!-- <a href="javascript:void()" class="serv">Cooler</a>
                     <a href="javascript:void()" class="serv">Fan</a> -->
                 </div>
@@ -62,7 +63,6 @@
                 <div class="icos">
                     <a href="javascript:void(0)"><i class="fa-brands fa-facebook-square"></i></a>
                     <a href="javascript:void(0)"><i class="fa-brands fa-instagram"></i></a>
-                    <a href="javascript:void(0)"><i class="fa-brands fa-google-plus-square"></i></a>
                 </div>
             </div>
         </div>

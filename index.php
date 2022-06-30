@@ -81,7 +81,7 @@
             </div>
             <h2>AC Service</h2>
             
-            <a href="javascript:void(0)" class="btn">Book</a>
+            <a href="air-condition.php" class="btn">Book</a>
           </div>
         </li>
         <li>
@@ -94,7 +94,7 @@
             </div>
             <h2>Geyser Service</h2>
             
-            <a href="javascript:void(0)" class="btn">Book</a>
+            <a href="geyser.php" class="btn">Book</a>
           </div>
         </li>
         <li>
@@ -107,7 +107,7 @@
             </div>
             <h2>Microwave Service</h2>
            
-            <a href="javascript:void(0)" class="btn">Book</a>
+            <a href="microwave.php" class="btn">Book</a>
           </div>
         </li>
         <li>
@@ -120,7 +120,7 @@
             </div>
             <h2>Refrigerator Service</h2>
             
-            <a href="javascript:void(0)" class="btn">Book</a>
+            <a href="refrigderator.php" class="btn">Book</a>
           </div>
         </li>
         <li>
@@ -133,7 +133,7 @@
             </div>
             <h2>Washing Machine Service</h2>
             
-            <a href="javascript:void(0)" class="btn">Book</a>
+            <a href="washing-maching.php" class="btn">Book</a>
           </div>
         </li>
         <li>
@@ -146,7 +146,7 @@
             </div>
             <h2>Core Cutting</h2>
             
-            <a href="javascript:void(0)" class="btn">Book</a>
+            <a href="core-cutting.php" class="btn">Book</a>
           </div>
         </li>
         <li>
@@ -159,7 +159,7 @@
             </div>
             <h2>A M C</h2>
             
-            <a href="javascript:void(0)" class="btn">Book</a>
+            <a href="amc.php" class="btn">Book</a>
           </div>
         </li>
         <li>
@@ -172,7 +172,7 @@
             </div>
             <h2>Commercial Service</h2>
             
-            <a href="javascript:void(0)" class="btn">Book</a>
+            <a href="commercial.php" class="btn">Book</a>
           </div>
         </li>
       </ul>
